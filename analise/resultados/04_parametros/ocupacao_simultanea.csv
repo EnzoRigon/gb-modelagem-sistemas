@@ -1,4 +1,0 @@
-Terminal,Média,Mediana,P90,P95,P99,Máximo,% tempo com ≥1,% tempo com ≥2,% tempo com ≥3,% tempo com ≥4,% tempo com ≥5,% tempo com ≥6,Berços sugeridos (P99 arred.)
-TCAT,2.92,3.0,4.0,4.0,5.0,6,98.69,91.01,69.51,29.35,2.94,0.25,5
-APM,1.27,1.0,3.0,3.0,3.0,4,78.77,38.35,10.09,0.12,0.0,0.0,3
-PNOU,0.52,0.0,1.0,2.0,2.0,2,44.78,7.66,0.0,0.0,0.0,0.0,2

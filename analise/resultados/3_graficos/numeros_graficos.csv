@@ -1,0 +1,33 @@
+Gráfico,Indicador,Valor
+1,Intervalo entre chegadas: n,1327.0
+1,média (h),6.5897
+1,mediana (h),5.05
+1,desvio (h),5.9347
+1,CV,0.9006
+1,Weibull escala β,6.9051
+1,Weibull forma α,1.1386
+1,KS p Weibull,0.7503
+1,KS p Exponencial,0.0004
+2,Permanência < 300 m: n,974.0
+2,Permanência < 300 m: média (h),17.7391
+2,Permanência < 300 m: mediana (h),14.25
+2,Permanência ≥ 300 m: n,354.0
+2,Permanência ≥ 300 m: média (h),32.6043
+2,Permanência ≥ 300 m: mediana (h),28.175
+2,Mann-Whitney p (grupos diferem?),0.0
+2,Razão médias grande/pequeno,1.838
+3,Comprimento: n,1328.0
+3,média (m),235.1928
+3,mediana (m),207.735
+3,mín (m),121.76
+3,máx (m),400.0
+3,desvio (m),85.9336
+3,% navios ≥ 300 m (prob. do Decide),26.6566
+5,Navios em jan,80.0
+5,Pico (mês),Out
+5,Navios no pico,133.0
+5,Crescimento jan → pico (%),66.25
+5,1º semestre,569.0
+5,2º semestre,759.0
+5,Crescimento 2º/1º semestre (%),33.3919
+5,Tendência (navios/mês por mês),4.8671

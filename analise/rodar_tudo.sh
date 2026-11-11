@@ -1,5 +1,6 @@
 #!/bin/bash
-# Recria o ambiente (se necessário) e roda toda a análise em ordem.
+# Recria o ambiente (se necessário) e roda a análise em ordem:
+#   1) limpeza -> tabela limpa   2) panorama por tipo de navio   3) gráficos (a partir da tabela limpa)
 # Uso:  bash analise/rodar_tudo.sh
 set -e
 cd "$(dirname "$0")"
@@ -10,9 +11,9 @@ if [ ! -x "$RAIZ/.venv/bin/python" ]; then
 fi
 PY="$(cd "$RAIZ" && pwd)/.venv/bin/python"
 cd scripts
-for s in 01_preparar_dados.py 02_estatistica_descritiva.py 03_ajuste_distribuicoes.py \
-         04_parametros_validacao.py 05_panorama_porto.py; do
+for s in 1_limpeza_dados.py 2_panorama_porto.py 3_graficos.py; do
   echo "==> $s"
   "$PY" "$s" > /dev/null
 done
+rm -rf __pycache__
 echo "OK — resultados em analise/resultados/"

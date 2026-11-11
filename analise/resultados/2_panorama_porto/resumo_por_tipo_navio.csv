@@ -1,0 +1,10 @@
+Tipo de navio,Escalas,% do porto,Chegadas/dia,Intervalo médio entre chegadas (h),CV do intervalo,Permanência média (h),Permanência mediana (h),Desvio da permanência (h),Atípicos extremos,Comprimento médio (m),Principal terminal,Distribuição sugerida — intervalo,Distribuição sugerida — permanência
+Ferry,3270,32.31,8.96,2.68,1.62,3.46,3.37,1.12,533,180.54,TERMINAL F2 (51%),"LOGN(3.99, 21.26)","GAMM(0.38, 9.020)"
+Porta-contêineres,2531,25.0,6.93,3.46,0.98,20.09,16.18,12.48,54,218.64,TERMINAL CATALUNYA SA (52%),"GAMM(3.27, 1.058)","LOGN(20.63, 14.79)"
+Navio-tanque,1809,17.87,4.96,4.84,1.09,56.31,39.33,46.08,31,147.43,TRADEBE PORT SERVICES SL (11%),"WEIB(4.72, 0.945)","LOGN(61.65, 71.13)"
+Passageiros (cruzeiro),896,8.85,2.45,9.68,1.4,11.4,11.18,1.81,93,285.21,ADOSSAT/TERMINAL H (20%),"LOGN(18.26, 143.31)","GAMM(0.32, 35.863)"
+Ro-Ro,519,5.13,1.42,16.75,0.8,5.94,5.08,2.96,33,228.85,GRIMALDI TERMINAL BARCELONA SL (79%),"WEIB(17.88, 1.236)","LOGN(5.89, 2.61)"
+Carga geral (Lo-Lo),417,4.12,1.14,20.9,1.17,38.78,29.48,29.45,9,116.83,TRAFICO DE MERCANCIAS SA (22%),"GAMM(25.08, 0.833)","LOGN(39.77, 36.60)"
+Transporte de veículos,361,3.57,0.99,24.19,0.89,19.02,16.13,10.22,6,177.64,AUTOTERMINAL SA (55%),EXPO(24.19),"LOGN(18.99, 10.36)"
+Graneleiro,162,1.6,0.44,54.27,0.97,109.18,80.17,98.92,3,188.5,ERGRANSA SA (24%),EXPO(54.27),"GAMM(93.92, 1.162)"
+Petroleiro,157,1.55,0.43,56.05,1.33,39.52,28.5,28.4,14,220.18,ENAGAS TRANSPORTE SAU (29%),"WEIB(49.09, 0.796)","GAMM(21.50, 1.838)"

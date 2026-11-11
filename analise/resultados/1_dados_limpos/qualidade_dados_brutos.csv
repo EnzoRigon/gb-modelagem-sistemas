@@ -1,0 +1,34 @@
+Coluna,Valores ausentes,% ausente,Valores distintos,Observação
+_id,0,0.0,10309,
+ANYESCALA,0,0.0,2,700 escalas com ano 2024 mas chegada em 2025 (provavelmente escala registrada ainda em 2024)
+TERMINALCODI,1427,13.84,38,Escala sem terminal atribuído no registro (o dataset não informa o motivo); não afeta o TCAT
+VAIXELLBANDERACODI,0,0.0,58,
+ETD,0,0.0,10005,
+VAIXELLNOM,0,0.0,1772,
+CALAT_METRES,0,0.0,536,13 registros com calado = 0 (valor faltante gravado como zero)
+MANEGA_METRES,6537,63.41,230,Boca (largura) não informada na maioria dos registros; NÃO usada na análise
+MESINFO,18,0.17,1760,Link do MarineTraffic ausente; não afeta a análise
+TERMINALNOM,1427,13.84,38,Idem TERMINALCODI
+ETAHORA,0,0.0,1430,
+ETAUTC,0,0.0,9984,
+ETADIA,0,0.0,365,
+ETDUTC,0,0.0,10005,
+VAIXELLTIPUS,0,0.0,9,
+ETDHORA,0,0.0,1426,
+PORTDESTICODI,0,0.0,303,449 registros com destino 'ZZZZZ' = desconhecido
+MOLLCODI,0,0.0,38,
+MMSI,18,0.17,1760,Identificador de rádio ausente; não afeta a análise
+IMO,0,0.0,1767,
+PORTORIGENCODI,0,0.0,333,
+ESCALAESTAT,0,0.0,6,
+ESLORA_METRES,0,0.0,935,
+PORTORIGENNOM,0,0.0,332,
+PORTDESTINOM,0,0.0,301,
+ESTOPERATIUID,0,0.0,6,
+MOLLMODULS,1449,14.06,165,Módulos do cais não informados
+ESCALANUM,0,0.0,10122,187 números de escala repetidos (mesma escala em 2 terminais)
+ETDDIA,0,0.0,371,
+ETA,0,0.0,9984,Horário local de Barcelona; difere de ETAUTC em 1 h (inverno) ou 2 h (verão)
+VAIXELLBANDERANOM,0,0.0,58,
+CONSIGNATARI,0,0.0,47,
+CALLSIGN,0,0.0,1767,
