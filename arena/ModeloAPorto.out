@@ -1,0 +1,2464 @@
+
+                                      ARENA Simulation Results
+                                  Laboratorio - License: 5454000146
+
+                                  Sumário para Replicação 1 de 40
+
+Projeto: Unnamed Project                                             Data da execução :11/18/2026
+Analista: Laboratorio                                                 Data de revisão do modelo:11/18/2026
+
+Replicação terminada no tempo de      : 43200.0 Minutos 
+Statísticas foram apuradas no tempo de: 4320.0 Minutos (Sunday, November 22, 2026, 00:00:00)
+Statísticas acumuladas para o tempo de: 38880.0 Minutos
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Tempo no Porto                              1490.8     (Insuf)    358.69     8355.6         99    
+Espera no Fundeio                           188.20     (Insuf)    .00000     1394.6         96    
+Navio.VATime                                1300.2     (Insuf)    358.69     8355.6         99    
+Navio.NVATime                               .00000     (Insuf)    .00000     .00000         99    
+Navio.WaitTime                              190.63     (Insuf)    .00000     1394.6         99    
+Navio.TranTime                              .00000     (Insuf)    .00000     .00000         99    
+Navio.OtherTime                             .00000     (Insuf)    .00000     .00000         99    
+Navio.TotalTime                             1490.8     (Insuf)    358.69     8355.6         99    
+Espera Barco.Queue.WaitingTime              188.20     (Insuf)    .00000     1394.6         96    
+Manobra de Entrada.Queue.WaitingTime        6.7622     (Insuf)    .00000     83.651         96    
+Manobra de Saida.Queue.WaitingTime          1.5762     (Insuf)    .00000     44.113         99    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Navio.WIP                                   3.6855     (Insuf)    .00000     13.000     2.0000    
+Berco.NumberBusy                            3.2208     (Insuf)    .00000     5.0000     2.0000    
+Berco.NumberScheduled                       5.0000     (Insuf)    5.0000     5.0000     5.0000    
+Berco.Utilization                           .64416     (Insuf)    .00000     1.0000     .40000    
+Rebocador.NumberBusy                        .35333     .04905     .00000     2.0000     .00000    
+Rebocador.NumberScheduled                   2.0000     (Insuf)    2.0000     2.0000     2.0000    
+Rebocador.Utilization                       .17666     .02452     .00000     1.0000     .00000    
+Espera Barco.Queue.NumberInQueue            .46471     (Insuf)    .00000     8.0000     .00000    
+Manobra de Entrada.Queue.NumberInQueue      .01670     (Insuf)    .00000     2.0000     .00000    
+Manobra de Saida.Queue.NumberInQueue        .00401     (Insuf)    .00000     2.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Navio.NumberIn                              96.000    
+Navio.NumberOut                             99.000    
+Berco.NumberSeized                          96.000    
+Berco.ScheduledUtilization                  .64416    
+Rebocador.NumberSeized                      258.00    
+Rebocador.ScheduledUtilization              .17666    
+System.NumberOut                            99.000    
+
+Iniciando replicação 2 de 40
+
+                                      ARENA Simulation Results
+                                  Laboratorio - License: 5454000146
+
+                                  Sumário para Replicação 2 de 40
+
+Projeto: Unnamed Project                                             Data da execução :11/18/2026
+Analista: Laboratorio                                                 Data de revisão do modelo:11/18/2026
+
+Replicação terminada no tempo de      : 43200.0 Minutos 
+Statísticas foram apuradas no tempo de: 4320.0 Minutos (Sunday, November 22, 2026, 00:00:00)
+Statísticas acumuladas para o tempo de: 38880.0 Minutos
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Tempo no Porto                              1505.6     (Insuf)    262.73     9873.5        100    
+Espera no Fundeio                           201.54     (Insuf)    .00000     2320.3        101    
+Navio.VATime                                1296.6     (Insuf)    262.28     9547.8        100    
+Navio.NVATime                               .00000     (Insuf)    .00000     .00000        100    
+Navio.WaitTime                              208.98     (Insuf)    .00000     2320.3        100    
+Navio.TranTime                              .00000     (Insuf)    .00000     .00000        100    
+Navio.OtherTime                             .00000     (Insuf)    .00000     .00000        100    
+Navio.TotalTime                             1505.6     (Insuf)    262.73     9873.5        100    
+Espera Barco.Queue.WaitingTime              201.54     (Insuf)    .00000     2320.3        101    
+Manobra de Entrada.Queue.WaitingTime        1.7104     (Insuf)    .00000     49.275        101    
+Manobra de Saida.Queue.WaitingTime          3.7376     (Insuf)    .00000     51.600         99    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Navio.WIP                                   3.9077     (Insuf)    .00000     11.000     3.0000    
+Berco.NumberBusy                            3.3842     (Insuf)    .00000     5.0000     3.0000    
+Berco.NumberScheduled                       5.0000     (Insuf)    5.0000     5.0000     5.0000    
+Berco.Utilization                           .67685     (Insuf)    .00000     1.0000     .60000    
+Rebocador.NumberBusy                        .33449     .04280     .00000     2.0000     .00000    
+Rebocador.NumberScheduled                   2.0000     (Insuf)    2.0000     2.0000     2.0000    
+Rebocador.Utilization                       .16724     .02140     .00000     1.0000     .00000    
+Espera Barco.Queue.NumberInQueue            .52355     (Insuf)    .00000     6.0000     .00000    
+Manobra de Entrada.Queue.NumberInQueue      .00444     (Insuf)    .00000     1.0000     .00000    
+Manobra de Saida.Queue.NumberInQueue        .00952     (Insuf)    .00000     1.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Navio.NumberIn                              101.00    
+Navio.NumberOut                             100.00    
+Berco.NumberSeized                          101.00    
+Berco.ScheduledUtilization                  .67685    
+Rebocador.NumberSeized                      245.00    
+Rebocador.ScheduledUtilization              .16724    
+System.NumberOut                            100.00    
+
+Iniciando replicação 3 de 40
+
+                                      ARENA Simulation Results
+                                  Laboratorio - License: 5454000146
+
+                                  Sumário para Replicação 3 de 40
+
+Projeto: Unnamed Project                                             Data da execução :11/18/2026
+Analista: Laboratorio                                                 Data de revisão do modelo:11/18/2026
+
+Replicação terminada no tempo de      : 43200.0 Minutos 
+Statísticas foram apuradas no tempo de: 4320.0 Minutos (Sunday, November 22, 2026, 00:00:00)
+Statísticas acumuladas para o tempo de: 38880.0 Minutos
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Tempo no Porto                              1236.9     (Insuf)    336.34     4507.6         94    
+Espera no Fundeio                           17.027     (Insuf)    .00000     269.96         95    
+Navio.VATime                                1211.1     (Insuf)    312.96     4507.6         94    
+Navio.NVATime                               .00000     (Insuf)    .00000     .00000         94    
+Navio.WaitTime                              25.803     (Insuf)    .00000     269.96         94    
+Navio.TranTime                              .00000     (Insuf)    .00000     .00000         94    
+Navio.OtherTime                             .00000     (Insuf)    .00000     .00000         94    
+Navio.TotalTime                             1236.9     (Insuf)    336.34     4507.6         94    
+Espera Barco.Queue.WaitingTime              17.027     (Insuf)    .00000     269.96         95    
+Manobra de Entrada.Queue.WaitingTime        4.6432     (Insuf)    .00000     61.732         95    
+Manobra de Saida.Queue.WaitingTime          4.0471     (Insuf)    .00000     66.451         94    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Navio.WIP                                   3.0271     (Insuf)    .00000     7.0000     2.0000    
+Berco.NumberBusy                            2.9855     (Insuf)    .00000     5.0000     2.0000    
+Berco.NumberScheduled                       5.0000     (Insuf)    5.0000     5.0000     5.0000    
+Berco.Utilization                           .59711     (Insuf)    .00000     1.0000     .40000    
+Rebocador.NumberBusy                        .33736     .04904     .00000     2.0000     .00000    
+Rebocador.NumberScheduled                   2.0000     (Insuf)    2.0000     2.0000     2.0000    
+Rebocador.Utilization                       .16868     .02452     .00000     1.0000     .00000    
+Espera Barco.Queue.NumberInQueue            .04161     (Insuf)    .00000     2.0000     .00000    
+Manobra de Entrada.Queue.NumberInQueue      .01135     (Insuf)    .00000     1.0000     .00000    
+Manobra de Saida.Queue.NumberInQueue        .00978     (Insuf)    .00000     1.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Navio.NumberIn                              95.000    
+Navio.NumberOut                             94.000    
+Berco.NumberSeized                          95.000    
+Berco.ScheduledUtilization                  .59711    
+Rebocador.NumberSeized                      243.00    
+Rebocador.ScheduledUtilization              .16868    
+System.NumberOut                            94.000    
+
+Iniciando replicação 4 de 40
+
+                                      ARENA Simulation Results
+                                  Laboratorio - License: 5454000146
+
+                                  Sumário para Replicação 4 de 40
+
+Projeto: Unnamed Project                                             Data da execução :11/18/2026
+Analista: Laboratorio                                                 Data de revisão do modelo:11/18/2026
+
+Replicação terminada no tempo de      : 43200.0 Minutos 
+Statísticas foram apuradas no tempo de: 4320.0 Minutos (Sunday, November 22, 2026, 00:00:00)
+Statísticas acumuladas para o tempo de: 38880.0 Minutos
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Tempo no Porto                              1485.7     (Insuf)    308.86     8149.2        104    
+Espera no Fundeio                           104.19     (Insuf)    .00000     865.10        102    
+Navio.VATime                                1382.0     (Insuf)    279.54     8149.2        104    
+Navio.NVATime                               .00000     (Insuf)    .00000     .00000        104    
+Navio.WaitTime                              103.73     (Insuf)    .00000     865.10        104    
+Navio.TranTime                              .00000     (Insuf)    .00000     .00000        104    
+Navio.OtherTime                             .00000     (Insuf)    .00000     .00000        104    
+Navio.TotalTime                             1485.7     (Insuf)    308.86     8149.2        104    
+Espera Barco.Queue.WaitingTime              104.19     (Insuf)    .00000     865.10        102    
+Manobra de Entrada.Queue.WaitingTime        5.0731     (Insuf)    .00000     123.74        102    
+Manobra de Saida.Queue.WaitingTime          2.4695     (Insuf)    .00000     54.385        104    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Navio.WIP                                   3.9046     (Insuf)    .00000     9.0000     3.0000    
+Berco.NumberBusy                            3.6312     (Insuf)    .00000     5.0000     3.0000    
+Berco.NumberScheduled                       5.0000     (Insuf)    5.0000     5.0000     5.0000    
+Berco.Utilization                           .72626     (Insuf)    .00000     1.0000     .60000    
+Rebocador.NumberBusy                        .35978     .05137     .00000     2.0000     .00000    
+Rebocador.NumberScheduled                   2.0000     (Insuf)    2.0000     2.0000     2.0000    
+Rebocador.Utilization                       .17989     .02569     .00000     1.0000     .00000    
+Espera Barco.Queue.NumberInQueue            .27336     (Insuf)    .00000     4.0000     .00000    
+Manobra de Entrada.Queue.NumberInQueue      .01331     (Insuf)    .00000     2.0000     .00000    
+Manobra de Saida.Queue.NumberInQueue        .00661     (Insuf)    .00000     1.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Navio.NumberIn                              102.00    
+Navio.NumberOut                             104.00    
+Berco.NumberSeized                          102.00    
+Berco.ScheduledUtilization                  .72626    
+Rebocador.NumberSeized                      264.00    
+Rebocador.ScheduledUtilization              .17989    
+System.NumberOut                            104.00    
+
+Iniciando replicação 5 de 40
+
+                                      ARENA Simulation Results
+                                  Laboratorio - License: 5454000146
+
+                                  Sumário para Replicação 5 de 40
+
+Projeto: Unnamed Project                                             Data da execução :11/18/2026
+Analista: Laboratorio                                                 Data de revisão do modelo:11/18/2026
+
+Replicação terminada no tempo de      : 43200.0 Minutos 
+Statísticas foram apuradas no tempo de: 4320.0 Minutos (Sunday, November 22, 2026, 00:00:00)
+Statísticas acumuladas para o tempo de: 38880.0 Minutos
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Tempo no Porto                              1468.2     (Insuf)    344.85     4281.9        117    
+Espera no Fundeio                           302.30     (Insuf)    .00000     1994.0        115    
+Navio.VATime                                1164.2     (Insuf)    315.80     3827.3        117    
+Navio.NVATime                               .00000     (Insuf)    .00000     .00000        117    
+Navio.WaitTime                              304.00     (Insuf)    .00000     2036.0        117    
+Navio.TranTime                              .00000     (Insuf)    .00000     .00000        117    
+Navio.OtherTime                             .00000     (Insuf)    .00000     .00000        117    
+Navio.TotalTime                             1468.2     (Insuf)    344.85     4281.9        117    
+Espera Barco.Queue.WaitingTime              302.30     (Insuf)    .00000     1994.0        115    
+Manobra de Entrada.Queue.WaitingTime        4.3541     (Insuf)    .00000     89.330        115    
+Manobra de Saida.Queue.WaitingTime          4.0440     (Insuf)    .00000     66.989        118    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Navio.WIP                                   4.4435     (Insuf)    .00000     14.000     3.0000    
+Berco.NumberBusy                            3.5494     (Insuf)    .00000     5.0000     3.0000    
+Berco.NumberScheduled                       5.0000     (Insuf)    5.0000     5.0000     5.0000    
+Berco.Utilization                           .70988     (Insuf)    .00000     1.0000     .60000    
+Rebocador.NumberBusy                        .39958     .05319     .00000     2.0000     1.0000    
+Rebocador.NumberScheduled                   2.0000     (Insuf)    2.0000     2.0000     2.0000    
+Rebocador.Utilization                       .19979     .02659     .00000     1.0000     .50000    
+Espera Barco.Queue.NumberInQueue            .89416     (Insuf)    .00000     9.0000     .00000    
+Manobra de Entrada.Queue.NumberInQueue      .01288     (Insuf)    .00000     1.0000     .00000    
+Manobra de Saida.Queue.NumberInQueue        .01227     (Insuf)    .00000     1.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Navio.NumberIn                              115.00    
+Navio.NumberOut                             117.00    
+Berco.NumberSeized                          115.00    
+Berco.ScheduledUtilization                  .70988    
+Rebocador.NumberSeized                      296.00    
+Rebocador.ScheduledUtilization              .19979    
+System.NumberOut                            117.00    
+
+Iniciando replicação 6 de 40
+
+                                      ARENA Simulation Results
+                                  Laboratorio - License: 5454000146
+
+                                  Sumário para Replicação 6 de 40
+
+Projeto: Unnamed Project                                             Data da execução :11/18/2026
+Analista: Laboratorio                                                 Data de revisão do modelo:11/18/2026
+
+Replicação terminada no tempo de      : 43200.0 Minutos 
+Statísticas foram apuradas no tempo de: 4320.0 Minutos (Sunday, November 22, 2026, 00:00:00)
+Statísticas acumuladas para o tempo de: 38880.0 Minutos
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Tempo no Porto                              1307.2     (Insuf)    357.04     5145.2        104    
+Espera no Fundeio                           70.675     (Insuf)    .00000     755.85        104    
+Navio.VATime                                1231.2     (Insuf)    357.04     5123.9        104    
+Navio.NVATime                               .00000     (Insuf)    .00000     .00000        104    
+Navio.WaitTime                              76.000     (Insuf)    .00000     755.85        104    
+Navio.TranTime                              .00000     (Insuf)    .00000     .00000        104    
+Navio.OtherTime                             .00000     (Insuf)    .00000     .00000        104    
+Navio.TotalTime                             1307.2     (Insuf)    357.04     5145.2        104    
+Espera Barco.Queue.WaitingTime              70.675     (Insuf)    .00000     755.85        104    
+Manobra de Entrada.Queue.WaitingTime        2.3414     (Insuf)    .00000     81.860        104    
+Manobra de Saida.Queue.WaitingTime          2.9832     (Insuf)    .00000     53.710        104    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Navio.WIP                                   3.4655     (Insuf)    .00000     9.0000     3.0000    
+Berco.NumberBusy                            3.2764     (Insuf)    .00000     5.0000     3.0000    
+Berco.NumberScheduled                       5.0000     (Insuf)    5.0000     5.0000     5.0000    
+Berco.Utilization                           .65530     (Insuf)    .00000     1.0000     .60000    
+Rebocador.NumberBusy                        .37947     .05798     .00000     2.0000     .00000    
+Rebocador.NumberScheduled                   2.0000     (Insuf)    2.0000     2.0000     2.0000    
+Rebocador.Utilization                       .18974     .02899     .00000     1.0000     .00000    
+Espera Barco.Queue.NumberInQueue            .18905     (Insuf)    .00000     4.0000     .00000    
+Manobra de Entrada.Queue.NumberInQueue      .00626     (Insuf)    .00000     1.0000     .00000    
+Manobra de Saida.Queue.NumberInQueue        .00798     (Insuf)    .00000     1.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Navio.NumberIn                              104.00    
+Navio.NumberOut                             104.00    
+Berco.NumberSeized                          104.00    
+Berco.ScheduledUtilization                  .65530    
+Rebocador.NumberSeized                      280.00    
+Rebocador.ScheduledUtilization              .18974    
+System.NumberOut                            104.00    
+
+Iniciando replicação 7 de 40
+
+                                      ARENA Simulation Results
+                                  Laboratorio - License: 5454000146
+
+                                  Sumário para Replicação 7 de 40
+
+Projeto: Unnamed Project                                             Data da execução :11/18/2026
+Analista: Laboratorio                                                 Data de revisão do modelo:11/18/2026
+
+Replicação terminada no tempo de      : 43200.0 Minutos 
+Statísticas foram apuradas no tempo de: 4320.0 Minutos (Sunday, November 22, 2026, 00:00:00)
+Statísticas acumuladas para o tempo de: 38880.0 Minutos
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Tempo no Porto                              1161.1     (Insuf)    307.48     3994.7         98    
+Espera no Fundeio                           11.046     (Insuf)    .00000     256.22         97    
+Navio.VATime                                1144.9     (Insuf)    307.48     3994.7         98    
+Navio.NVATime                               .00000     (Insuf)    .00000     .00000         98    
+Navio.WaitTime                              16.153     (Insuf)    .00000     256.22         98    
+Navio.TranTime                              .00000     (Insuf)    .00000     .00000         98    
+Navio.OtherTime                             .00000     (Insuf)    .00000     .00000         98    
+Navio.TotalTime                             1161.1     (Insuf)    307.48     3994.7         98    
+Espera Barco.Queue.WaitingTime              11.046     (Insuf)    .00000     256.22         97    
+Manobra de Entrada.Queue.WaitingTime        2.1392     (Insuf)    .00000     54.609         97    
+Manobra de Saida.Queue.WaitingTime          3.0709     (Insuf)    .00000     67.810         99    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Navio.WIP                                   2.9155     (Insuf)    .00000     7.0000     2.0000    
+Berco.NumberBusy                            2.8880     (Insuf)    .00000     5.0000     2.0000    
+Berco.NumberScheduled                       5.0000     (Insuf)    5.0000     5.0000     5.0000    
+Berco.Utilization                           .57761     (Insuf)    .00000     1.0000     .40000    
+Rebocador.NumberBusy                        .32835     .04506     .00000     2.0000     2.0000    
+Rebocador.NumberScheduled                   2.0000     (Insuf)    2.0000     2.0000     2.0000    
+Rebocador.Utilization                       .16418     .02253     .00000     1.0000     1.0000    
+Espera Barco.Queue.NumberInQueue            .02756     (Insuf)    .00000     2.0000     .00000    
+Manobra de Entrada.Queue.NumberInQueue      .00534     (Insuf)    .00000     1.0000     .00000    
+Manobra de Saida.Queue.NumberInQueue        .00782     (Insuf)    .00000     1.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Navio.NumberIn                              97.000    
+Navio.NumberOut                             98.000    
+Berco.NumberSeized                          97.000    
+Berco.ScheduledUtilization                  .57761    
+Rebocador.NumberSeized                      237.00    
+Rebocador.ScheduledUtilization              .16418    
+System.NumberOut                            98.000    
+
+Iniciando replicação 8 de 40
+
+                                      ARENA Simulation Results
+                                  Laboratorio - License: 5454000146
+
+                                  Sumário para Replicação 8 de 40
+
+Projeto: Unnamed Project                                             Data da execução :11/18/2026
+Analista: Laboratorio                                                 Data de revisão do modelo:11/18/2026
+
+Replicação terminada no tempo de      : 43200.0 Minutos 
+Statísticas foram apuradas no tempo de: 4320.0 Minutos (Sunday, November 22, 2026, 00:00:00)
+Statísticas acumuladas para o tempo de: 38880.0 Minutos
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Tempo no Porto                              1636.8     (Insuf)    261.64     5656.9        101    
+Espera no Fundeio                           297.41     (Insuf)    .00000     2120.5         99    
+Navio.VATime                                1310.4     (Insuf)    261.64     5106.5        101    
+Navio.NVATime                               .00000     (Insuf)    .00000     .00000        101    
+Navio.WaitTime                              326.45     (Insuf)    .00000     2197.2        101    
+Navio.TranTime                              .00000     (Insuf)    .00000     .00000        101    
+Navio.OtherTime                             .00000     (Insuf)    .00000     .00000        101    
+Navio.TotalTime                             1636.8     (Insuf)    261.64     5656.9        101    
+Espera Barco.Queue.WaitingTime              297.41     (Insuf)    .00000     2120.5         99    
+Manobra de Entrada.Queue.WaitingTime        4.9923     (Insuf)    .00000     117.36         99    
+Manobra de Saida.Queue.WaitingTime          4.2877     (Insuf)    .00000     66.231        101    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Navio.WIP                                   3.9746     (Insuf)    .00000     12.000     3.0000    
+Berco.NumberBusy                            3.2543     (Insuf)    .00000     5.0000     3.0000    
+Berco.NumberScheduled                       5.0000     (Insuf)    5.0000     5.0000     5.0000    
+Berco.Utilization                           .65088     (Insuf)    .00000     1.0000     .60000    
+Rebocador.NumberBusy                        .34442     .05693     .00000     2.0000     .00000    
+Rebocador.NumberScheduled                   2.0000     (Insuf)    2.0000     2.0000     2.0000    
+Rebocador.Utilization                       .17221     .02847     .00000     1.0000     .00000    
+Espera Barco.Queue.NumberInQueue            .72023     (Insuf)    .00000     7.0000     .00000    
+Manobra de Entrada.Queue.NumberInQueue      .01271     (Insuf)    .00000     1.0000     .00000    
+Manobra de Saida.Queue.NumberInQueue        .01114     (Insuf)    .00000     1.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Navio.NumberIn                              96.000    
+Navio.NumberOut                             101.00    
+Berco.NumberSeized                          99.000    
+Berco.ScheduledUtilization                  .65088    
+Rebocador.NumberSeized                      252.00    
+Rebocador.ScheduledUtilization              .17221    
+System.NumberOut                            101.00    
+
+Iniciando replicação 9 de 40
+
+                                      ARENA Simulation Results
+                                  Laboratorio - License: 5454000146
+
+                                  Sumário para Replicação 9 de 40
+
+Projeto: Unnamed Project                                             Data da execução :11/18/2026
+Analista: Laboratorio                                                 Data de revisão do modelo:11/18/2026
+
+Replicação terminada no tempo de      : 43200.0 Minutos 
+Statísticas foram apuradas no tempo de: 4320.0 Minutos (Sunday, November 22, 2026, 00:00:00)
+Statísticas acumuladas para o tempo de: 38880.0 Minutos
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Tempo no Porto                              1378.4     (Insuf)    401.36     5988.6        105    
+Espera no Fundeio                           91.747     (Insuf)    .00000     982.78        101    
+Navio.VATime                                1279.0     (Insuf)    391.61     5958.9        105    
+Navio.NVATime                               .00000     (Insuf)    .00000     .00000        105    
+Navio.WaitTime                              99.444     (Insuf)    .00000     983.54        105    
+Navio.TranTime                              .00000     (Insuf)    .00000     .00000        105    
+Navio.OtherTime                             .00000     (Insuf)    .00000     .00000        105    
+Navio.TotalTime                             1378.4     (Insuf)    401.36     5988.6        105    
+Espera Barco.Queue.WaitingTime              91.747     (Insuf)    .00000     982.78        101    
+Manobra de Entrada.Queue.WaitingTime        4.1525     (Insuf)    .00000     121.37        101    
+Manobra de Saida.Queue.WaitingTime          4.0794     (Insuf)    .00000     64.397        104    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Navio.WIP                                   3.6160     (Insuf)    .00000     9.0000     1.0000    
+Berco.NumberBusy                            3.3776     (Insuf)    .00000     5.0000     1.0000    
+Berco.NumberScheduled                       5.0000     (Insuf)    5.0000     5.0000     5.0000    
+Berco.Utilization                           .67554     (Insuf)    .00000     1.0000     .20000    
+Rebocador.NumberBusy                        .36531     .06017     .00000     2.0000     .00000    
+Rebocador.NumberScheduled                   2.0000     (Insuf)    2.0000     2.0000     2.0000    
+Rebocador.Utilization                       .18266     .03009     .00000     1.0000     .00000    
+Espera Barco.Queue.NumberInQueue            .23834     (Insuf)    .00000     4.0000     .00000    
+Manobra de Entrada.Queue.NumberInQueue      .01079     (Insuf)    .00000     1.0000     .00000    
+Manobra de Saida.Queue.NumberInQueue        .01091     (Insuf)    .00000     1.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Navio.NumberIn                              101.00    
+Navio.NumberOut                             105.00    
+Berco.NumberSeized                          101.00    
+Berco.ScheduledUtilization                  .67554    
+Rebocador.NumberSeized                      265.00    
+Rebocador.ScheduledUtilization              .18266    
+System.NumberOut                            105.00    
+
+Iniciando replicação 10 de 40
+
+                                      ARENA Simulation Results
+                                  Laboratorio - License: 5454000146
+
+                                  Sumário para Replicação 10 de 40
+
+Projeto: Unnamed Project                                             Data da execução :11/18/2026
+Analista: Laboratorio                                                 Data de revisão do modelo:11/18/2026
+
+Replicação terminada no tempo de      : 43200.0 Minutos 
+Statísticas foram apuradas no tempo de: 4320.0 Minutos (Sunday, November 22, 2026, 00:00:00)
+Statísticas acumuladas para o tempo de: 38880.0 Minutos
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Tempo no Porto                              1403.5     (Insuf)    289.03     8998.3         88    
+Espera no Fundeio                           104.74     (Insuf)    .00000     1441.2         91    
+Navio.VATime                                1286.2     (Insuf)    289.03     8998.3         88    
+Navio.NVATime                               .00000     (Insuf)    .00000     .00000         88    
+Navio.WaitTime                              117.27     (Insuf)    .00000     1456.6         88    
+Navio.TranTime                              .00000     (Insuf)    .00000     .00000         88    
+Navio.OtherTime                             .00000     (Insuf)    .00000     .00000         88    
+Navio.TotalTime                             1403.5     (Insuf)    289.03     8998.3         88    
+Espera Barco.Queue.WaitingTime              104.74     (Insuf)    .00000     1441.2         91    
+Manobra de Entrada.Queue.WaitingTime        4.7173     (Insuf)    .00000     114.86         91    
+Manobra de Saida.Queue.WaitingTime          4.3427     (Insuf)    .00000     75.340         88    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Navio.WIP                                   3.1862     (Insuf)    .00000     9.0000     5.0000    
+Berco.NumberBusy                            2.9411     (Insuf)    .00000     5.0000     5.0000    
+Berco.NumberScheduled                       5.0000     (Insuf)    5.0000     5.0000     5.0000    
+Berco.Utilization                           .58823     (Insuf)    .00000     1.0000     1.0000    
+Rebocador.NumberBusy                        .30520     (Insuf)    .00000     2.0000     2.0000    
+Rebocador.NumberScheduled                   2.0000     (Insuf)    2.0000     2.0000     2.0000    
+Rebocador.Utilization                       .15260     (Insuf)    .00000     1.0000     1.0000    
+Espera Barco.Queue.NumberInQueue            .24516     (Insuf)    .00000     4.0000     .00000    
+Manobra de Entrada.Queue.NumberInQueue      .01104     (Insuf)    .00000     2.0000     .00000    
+Manobra de Saida.Queue.NumberInQueue        .00983     (Insuf)    .00000     2.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Navio.NumberIn                              91.000    
+Navio.NumberOut                             88.000    
+Berco.NumberSeized                          91.000    
+Berco.ScheduledUtilization                  .58823    
+Rebocador.NumberSeized                      226.00    
+Rebocador.ScheduledUtilization              .15260    
+System.NumberOut                            88.000    
+
+Iniciando replicação 11 de 40
+
+                                      ARENA Simulation Results
+                                  Laboratorio - License: 5454000146
+
+                                  Sumário para Replicação 11 de 40
+
+Projeto: Unnamed Project                                             Data da execução :11/18/2026
+Analista: Laboratorio                                                 Data de revisão do modelo:11/18/2026
+
+Replicação terminada no tempo de      : 43200.0 Minutos 
+Statísticas foram apuradas no tempo de: 4320.0 Minutos (Sunday, November 22, 2026, 00:00:00)
+Statísticas acumuladas para o tempo de: 38880.0 Minutos
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Tempo no Porto                              1227.1     (Insuf)    379.64     4644.0        107    
+Espera no Fundeio                           66.023     (Insuf)    .00000     1020.5        106    
+Navio.VATime                                1154.4     (Insuf)    367.85     4613.0        107    
+Navio.NVATime                               .00000     (Insuf)    .00000     .00000        107    
+Navio.WaitTime                              72.675     (Insuf)    .00000     1020.5        107    
+Navio.TranTime                              .00000     (Insuf)    .00000     .00000        107    
+Navio.OtherTime                             .00000     (Insuf)    .00000     .00000        107    
+Navio.TotalTime                             1227.1     (Insuf)    379.64     4644.0        107    
+Espera Barco.Queue.WaitingTime              66.023     (Insuf)    .00000     1020.5        106    
+Manobra de Entrada.Queue.WaitingTime        2.8098     (Insuf)    .00000     49.664        106    
+Manobra de Saida.Queue.WaitingTime          3.7516     (Insuf)    .00000     70.821        107    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Navio.WIP                                   3.4654     (Insuf)    .00000     9.0000     2.0000    
+Berco.NumberBusy                            3.2854     (Insuf)    .00000     5.0000     2.0000    
+Berco.NumberScheduled                       5.0000     (Insuf)    5.0000     5.0000     5.0000    
+Berco.Utilization                           .65709     (Insuf)    .00000     1.0000     .40000    
+Rebocador.NumberBusy                        .36140     .06071     .00000     2.0000     .00000    
+Rebocador.NumberScheduled                   2.0000     (Insuf)    2.0000     2.0000     2.0000    
+Rebocador.Utilization                       .18070     .03035     .00000     1.0000     .00000    
+Espera Barco.Queue.NumberInQueue            .18000     (Insuf)    .00000     4.0000     .00000    
+Manobra de Entrada.Queue.NumberInQueue      .00766     (Insuf)    .00000     1.0000     .00000    
+Manobra de Saida.Queue.NumberInQueue        .01032     (Insuf)    .00000     2.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Navio.NumberIn                              106.00    
+Navio.NumberOut                             107.00    
+Berco.NumberSeized                          106.00    
+Berco.ScheduledUtilization                  .65709    
+Rebocador.NumberSeized                      262.00    
+Rebocador.ScheduledUtilization              .18070    
+System.NumberOut                            107.00    
+
+Iniciando replicação 12 de 40
+
+                                      ARENA Simulation Results
+                                  Laboratorio - License: 5454000146
+
+                                  Sumário para Replicação 12 de 40
+
+Projeto: Unnamed Project                                             Data da execução :11/18/2026
+Analista: Laboratorio                                                 Data de revisão do modelo:11/18/2026
+
+Replicação terminada no tempo de      : 43200.0 Minutos 
+Statísticas foram apuradas no tempo de: 4320.0 Minutos (Sunday, November 22, 2026, 00:00:00)
+Statísticas acumuladas para o tempo de: 38880.0 Minutos
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Tempo no Porto                              1396.3     (Insuf)    273.68     10119.        103    
+Espera no Fundeio                           64.061     (Insuf)    .00000     638.12        101    
+Navio.VATime                                1324.8     (Insuf)    273.68     10119.        103    
+Navio.NVATime                               .00000     (Insuf)    .00000     .00000        103    
+Navio.WaitTime                              71.563     (Insuf)    .00000     638.12        103    
+Navio.TranTime                              .00000     (Insuf)    .00000     .00000        103    
+Navio.OtherTime                             .00000     (Insuf)    .00000     .00000        103    
+Navio.TotalTime                             1396.3     (Insuf)    273.68     10119.        103    
+Espera Barco.Queue.WaitingTime              64.061     (Insuf)    .00000     638.12        101    
+Manobra de Entrada.Queue.WaitingTime        3.2613     (Insuf)    .00000     67.142        101    
+Manobra de Saida.Queue.WaitingTime          5.4501     (Insuf)    .00000     53.728        103    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Navio.WIP                                   3.5857     (Insuf)    .00000     8.0000     2.0000    
+Berco.NumberBusy                            3.4193     (Insuf)    .00000     5.0000     2.0000    
+Berco.NumberScheduled                       5.0000     (Insuf)    5.0000     5.0000     5.0000    
+Berco.Utilization                           .68386     (Insuf)    .00000     1.0000     .40000    
+Rebocador.NumberBusy                        .37241     .05937     .00000     2.0000     .00000    
+Rebocador.NumberScheduled                   2.0000     (Insuf)    2.0000     2.0000     2.0000    
+Rebocador.Utilization                       .18621     .02969     .00000     1.0000     .00000    
+Espera Barco.Queue.NumberInQueue            .16642     (Insuf)    .00000     3.0000     .00000    
+Manobra de Entrada.Queue.NumberInQueue      .00847     (Insuf)    .00000     1.0000     .00000    
+Manobra de Saida.Queue.NumberInQueue        .01444     (Insuf)    .00000     2.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Navio.NumberIn                              101.00    
+Navio.NumberOut                             103.00    
+Berco.NumberSeized                          101.00    
+Berco.ScheduledUtilization                  .68386    
+Rebocador.NumberSeized                      274.00    
+Rebocador.ScheduledUtilization              .18621    
+System.NumberOut                            103.00    
+
+Iniciando replicação 13 de 40
+
+                                      ARENA Simulation Results
+                                  Laboratorio - License: 5454000146
+
+                                  Sumário para Replicação 13 de 40
+
+Projeto: Unnamed Project                                             Data da execução :11/18/2026
+Analista: Laboratorio                                                 Data de revisão do modelo:11/18/2026
+
+Replicação terminada no tempo de      : 43200.0 Minutos 
+Statísticas foram apuradas no tempo de: 4320.0 Minutos (Sunday, November 22, 2026, 00:00:00)
+Statísticas acumuladas para o tempo de: 38880.0 Minutos
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Tempo no Porto                              1174.9     (Insuf)    341.67     5104.4         89    
+Espera no Fundeio                           3.5239     (Insuf)    .00000     159.38         88    
+Navio.VATime                                1165.0     (Insuf)    341.67     4902.6         89    
+Navio.NVATime                               .00000     (Insuf)    .00000     .00000         89    
+Navio.WaitTime                              9.9469     (Insuf)    .00000     201.79         89    
+Navio.TranTime                              .00000     (Insuf)    .00000     .00000         89    
+Navio.OtherTime                             .00000     (Insuf)    .00000     .00000         89    
+Navio.TotalTime                             1174.9     (Insuf)    341.67     5104.4         89    
+Espera Barco.Queue.WaitingTime              3.5239     (Insuf)    .00000     159.38         88    
+Manobra de Entrada.Queue.WaitingTime        1.7772     (Insuf)    .00000     103.60         88    
+Manobra de Saida.Queue.WaitingTime          4.7052     (Insuf)    .00000     58.739         89    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Navio.WIP                                   2.6709     (Insuf)    .00000     6.0000     2.0000    
+Berco.NumberBusy                            2.6630     (Insuf)    .00000     5.0000     2.0000    
+Berco.NumberScheduled                       5.0000     (Insuf)    5.0000     5.0000     5.0000    
+Berco.Utilization                           .53260     (Insuf)    .00000     1.0000     .40000    
+Rebocador.NumberBusy                        .31270     .04396     .00000     2.0000     .00000    
+Rebocador.NumberScheduled                   2.0000     (Insuf)    2.0000     2.0000     2.0000    
+Rebocador.Utilization                       .15635     .02198     .00000     1.0000     .00000    
+Espera Barco.Queue.NumberInQueue            .00798     (Insuf)    .00000     1.0000     .00000    
+Manobra de Entrada.Queue.NumberInQueue      .00402     (Insuf)    .00000     1.0000     .00000    
+Manobra de Saida.Queue.NumberInQueue        .01077     (Insuf)    .00000     2.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Navio.NumberIn                              88.000    
+Navio.NumberOut                             89.000    
+Berco.NumberSeized                          88.000    
+Berco.ScheduledUtilization                  .53260    
+Rebocador.NumberSeized                      232.00    
+Rebocador.ScheduledUtilization              .15635    
+System.NumberOut                            89.000    
+
+Iniciando replicação 14 de 40
+
+                                      ARENA Simulation Results
+                                  Laboratorio - License: 5454000146
+
+                                  Sumário para Replicação 14 de 40
+
+Projeto: Unnamed Project                                             Data da execução :11/18/2026
+Analista: Laboratorio                                                 Data de revisão do modelo:11/18/2026
+
+Replicação terminada no tempo de      : 43200.0 Minutos 
+Statísticas foram apuradas no tempo de: 4320.0 Minutos (Sunday, November 22, 2026, 00:00:00)
+Statísticas acumuladas para o tempo de: 38880.0 Minutos
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Tempo no Porto                              1229.5     (Insuf)    335.64     6469.2         89    
+Espera no Fundeio                           8.6156     (Insuf)    .00000     301.13         88    
+Navio.VATime                                1213.1     (Insuf)    335.64     6469.2         89    
+Navio.NVATime                               .00000     (Insuf)    .00000     .00000         89    
+Navio.WaitTime                              16.378     (Insuf)    .00000     332.00         89    
+Navio.TranTime                              .00000     (Insuf)    .00000     .00000         89    
+Navio.OtherTime                             .00000     (Insuf)    .00000     .00000         89    
+Navio.TotalTime                             1229.5     (Insuf)    335.64     6469.2         89    
+Espera Barco.Queue.WaitingTime              8.6156     (Insuf)    .00000     301.13         88    
+Manobra de Entrada.Queue.WaitingTime        2.4562     (Insuf)    .00000     54.665         88    
+Manobra de Saida.Queue.WaitingTime          2.2436     (Insuf)    .00000     52.214         90    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Navio.WIP                                   2.8980     (Insuf)    .00000     7.0000     3.0000    
+Berco.NumberBusy                            2.8785     (Insuf)    .00000     5.0000     3.0000    
+Berco.NumberScheduled                       5.0000     (Insuf)    5.0000     5.0000     5.0000    
+Berco.Utilization                           .57570     (Insuf)    .00000     1.0000     .60000    
+Rebocador.NumberBusy                        .29751     .04369     .00000     2.0000     2.0000    
+Rebocador.NumberScheduled                   2.0000     (Insuf)    2.0000     2.0000     2.0000    
+Rebocador.Utilization                       .14876     .02184     .00000     1.0000     1.0000    
+Espera Barco.Queue.NumberInQueue            .01950     (Insuf)    .00000     2.0000     .00000    
+Manobra de Entrada.Queue.NumberInQueue      .00556     (Insuf)    .00000     2.0000     .00000    
+Manobra de Saida.Queue.NumberInQueue        .00519     (Insuf)    .00000     1.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Navio.NumberIn                              88.000    
+Navio.NumberOut                             89.000    
+Berco.NumberSeized                          88.000    
+Berco.ScheduledUtilization                  .57570    
+Rebocador.NumberSeized                      220.00    
+Rebocador.ScheduledUtilization              .14876    
+System.NumberOut                            89.000    
+
+Iniciando replicação 15 de 40
+
+                                      ARENA Simulation Results
+                                  Laboratorio - License: 5454000146
+
+                                  Sumário para Replicação 15 de 40
+
+Projeto: Unnamed Project                                             Data da execução :11/18/2026
+Analista: Laboratorio                                                 Data de revisão do modelo:11/18/2026
+
+Replicação terminada no tempo de      : 43200.0 Minutos 
+Statísticas foram apuradas no tempo de: 4320.0 Minutos (Sunday, November 22, 2026, 00:00:00)
+Statísticas acumuladas para o tempo de: 38880.0 Minutos
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Tempo no Porto                              1745.0     (Insuf)    451.06     8178.0        100    
+Espera no Fundeio                           281.83     (Insuf)    .00000     1570.0        100    
+Navio.VATime                                1466.5     (Insuf)    420.10     8178.0        100    
+Navio.NVATime                               .00000     (Insuf)    .00000     .00000        100    
+Navio.WaitTime                              278.47     (Insuf)    .00000     1570.0        100    
+Navio.TranTime                              .00000     (Insuf)    .00000     .00000        100    
+Navio.OtherTime                             .00000     (Insuf)    .00000     .00000        100    
+Navio.TotalTime                             1745.0     (Insuf)    451.06     8178.0        100    
+Espera Barco.Queue.WaitingTime              281.83     (Insuf)    .00000     1570.0        100    
+Manobra de Entrada.Queue.WaitingTime        1.9438     (Insuf)    .00000     77.525        100    
+Manobra de Saida.Queue.WaitingTime          4.1464     (Insuf)    .00000     44.889        101    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Navio.WIP                                   4.6240     (Insuf)    1.0000     11.000     5.0000    
+Berco.NumberBusy                            3.8991     (Insuf)    1.0000     5.0000     5.0000    
+Berco.NumberScheduled                       5.0000     (Insuf)    5.0000     5.0000     5.0000    
+Berco.Utilization                           .77983     (Insuf)    .20000     1.0000     1.0000    
+Rebocador.NumberBusy                        .34344     (Insuf)    .00000     2.0000     2.0000    
+Rebocador.NumberScheduled                   2.0000     (Insuf)    2.0000     2.0000     2.0000    
+Rebocador.Utilization                       .17172     (Insuf)    .00000     1.0000     1.0000    
+Espera Barco.Queue.NumberInQueue            .72488     (Insuf)    .00000     6.0000     .00000    
+Manobra de Entrada.Queue.NumberInQueue      .00500     (Insuf)    .00000     1.0000     .00000    
+Manobra de Saida.Queue.NumberInQueue        .01077     (Insuf)    .00000     1.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Navio.NumberIn                              100.00    
+Navio.NumberOut                             100.00    
+Berco.NumberSeized                          100.00    
+Berco.ScheduledUtilization                  .77983    
+Rebocador.NumberSeized                      253.00    
+Rebocador.ScheduledUtilization              .17172    
+System.NumberOut                            100.00    
+
+Iniciando replicação 16 de 40
+
+                                      ARENA Simulation Results
+                                  Laboratorio - License: 5454000146
+
+                                  Sumário para Replicação 16 de 40
+
+Projeto: Unnamed Project                                             Data da execução :11/18/2026
+Analista: Laboratorio                                                 Data de revisão do modelo:11/18/2026
+
+Replicação terminada no tempo de      : 43200.0 Minutos 
+Statísticas foram apuradas no tempo de: 4320.0 Minutos (Sunday, November 22, 2026, 00:00:00)
+Statísticas acumuladas para o tempo de: 38880.0 Minutos
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Tempo no Porto                              1196.2     (Insuf)    335.98     4777.4         89    
+Espera no Fundeio                           24.365     (Insuf)    .00000     694.11         91    
+Navio.VATime                                1165.1     (Insuf)    335.98     4743.7         89    
+Navio.NVATime                               .00000     (Insuf)    .00000     .00000         89    
+Navio.WaitTime                              31.023     (Insuf)    .00000     694.11         89    
+Navio.TranTime                              .00000     (Insuf)    .00000     .00000         89    
+Navio.OtherTime                             .00000     (Insuf)    .00000     .00000         89    
+Navio.TotalTime                             1196.2     (Insuf)    335.98     4777.4         89    
+Espera Barco.Queue.WaitingTime              24.365     (Insuf)    .00000     694.11         91    
+Manobra de Entrada.Queue.WaitingTime        2.2936     (Insuf)    .00000     59.379         91    
+Manobra de Saida.Queue.WaitingTime          3.3871     (Insuf)    .00000     45.761         89    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Navio.WIP                                   2.7697     (Insuf)    .00000     7.0000     5.0000    
+Berco.NumberBusy                            2.7126     (Insuf)    .00000     5.0000     5.0000    
+Berco.NumberScheduled                       5.0000     (Insuf)    5.0000     5.0000     5.0000    
+Berco.Utilization                           .54254     (Insuf)    .00000     1.0000     1.0000    
+Rebocador.NumberBusy                        .29529     .04736     .00000     2.0000     .00000    
+Rebocador.NumberScheduled                   2.0000     (Insuf)    2.0000     2.0000     2.0000    
+Rebocador.Utilization                       .14764     .02368     .00000     1.0000     .00000    
+Espera Barco.Queue.NumberInQueue            .05703     (Insuf)    .00000     2.0000     .00000    
+Manobra de Entrada.Queue.NumberInQueue      .00537     (Insuf)    .00000     1.0000     .00000    
+Manobra de Saida.Queue.NumberInQueue        .00775     (Insuf)    .00000     1.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Navio.NumberIn                              91.000    
+Navio.NumberOut                             89.000    
+Berco.NumberSeized                          91.000    
+Berco.ScheduledUtilization                  .54254    
+Rebocador.NumberSeized                      214.00    
+Rebocador.ScheduledUtilization              .14764    
+System.NumberOut                            89.000    
+
+Iniciando replicação 17 de 40
+
+                                      ARENA Simulation Results
+                                  Laboratorio - License: 5454000146
+
+                                  Sumário para Replicação 17 de 40
+
+Projeto: Unnamed Project                                             Data da execução :11/18/2026
+Analista: Laboratorio                                                 Data de revisão do modelo:11/18/2026
+
+Replicação terminada no tempo de      : 43200.0 Minutos 
+Statísticas foram apuradas no tempo de: 4320.0 Minutos (Sunday, November 22, 2026, 00:00:00)
+Statísticas acumuladas para o tempo de: 38880.0 Minutos
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Tempo no Porto                              1249.4     (Insuf)    414.55     6065.5         92    
+Espera no Fundeio                           35.336     (Insuf)    .00000     645.83         90    
+Navio.VATime                                1206.5     (Insuf)    414.55     6065.5         92    
+Navio.NVATime                               .00000     (Insuf)    .00000     .00000         92    
+Navio.WaitTime                              42.877     (Insuf)    .00000     702.52         92    
+Navio.TranTime                              .00000     (Insuf)    .00000     .00000         92    
+Navio.OtherTime                             .00000     (Insuf)    .00000     .00000         92    
+Navio.TotalTime                             1249.4     (Insuf)    414.55     6065.5         92    
+Espera Barco.Queue.WaitingTime              35.336     (Insuf)    .00000     645.83         90    
+Manobra de Entrada.Queue.WaitingTime        2.4257     (Insuf)    .00000     56.696         90    
+Manobra de Saida.Queue.WaitingTime          4.9398     (Insuf)    .00000     69.909         92    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Navio.WIP                                   2.7566     (Insuf)    .00000     7.0000     3.0000    
+Berco.NumberBusy                            2.6799     (Insuf)    .00000     5.0000     3.0000    
+Berco.NumberScheduled                       5.0000     (Insuf)    5.0000     5.0000     5.0000    
+Berco.Utilization                           .53599     (Insuf)    .00000     1.0000     .60000    
+Rebocador.NumberBusy                        .30448     (Insuf)    .00000     2.0000     .00000    
+Rebocador.NumberScheduled                   2.0000     (Insuf)    2.0000     2.0000     2.0000    
+Rebocador.Utilization                       .15224     (Insuf)    .00000     1.0000     .00000    
+Espera Barco.Queue.NumberInQueue            .07669     (Insuf)    .00000     2.0000     .00000    
+Manobra de Entrada.Queue.NumberInQueue      .00562     (Insuf)    .00000     1.0000     .00000    
+Manobra de Saida.Queue.NumberInQueue        .01169     (Insuf)    .00000     1.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Navio.NumberIn                              89.000    
+Navio.NumberOut                             92.000    
+Berco.NumberSeized                          90.000    
+Berco.ScheduledUtilization                  .53599    
+Rebocador.NumberSeized                      221.00    
+Rebocador.ScheduledUtilization              .15224    
+System.NumberOut                            92.000    
+
+Iniciando replicação 18 de 40
+
+                                      ARENA Simulation Results
+                                  Laboratorio - License: 5454000146
+
+                                  Sumário para Replicação 18 de 40
+
+Projeto: Unnamed Project                                             Data da execução :11/18/2026
+Analista: Laboratorio                                                 Data de revisão do modelo:11/18/2026
+
+Replicação terminada no tempo de      : 43200.0 Minutos 
+Statísticas foram apuradas no tempo de: 4320.0 Minutos (Sunday, November 22, 2026, 00:00:00)
+Statísticas acumuladas para o tempo de: 38880.0 Minutos
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Tempo no Porto                              1085.7     (Insuf)    308.72     3482.0        107    
+Espera no Fundeio                           27.946     (Insuf)    .00000     756.23        110    
+Navio.VATime                                1049.5     (Insuf)    290.91     3403.3        107    
+Navio.NVATime                               .00000     (Insuf)    .00000     .00000        107    
+Navio.WaitTime                              36.206     (Insuf)    .00000     777.69        107    
+Navio.TranTime                              .00000     (Insuf)    .00000     .00000        107    
+Navio.OtherTime                             .00000     (Insuf)    .00000     .00000        107    
+Navio.TotalTime                             1085.7     (Insuf)    308.72     3482.0        107    
+Espera Barco.Queue.WaitingTime              27.946     (Insuf)    .00000     756.23        110    
+Manobra de Entrada.Queue.WaitingTime        2.3334     (Insuf)    .00000     53.841        110    
+Manobra de Saida.Queue.WaitingTime          6.3275     (Insuf)    .00000     77.989        107    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Navio.WIP                                   3.0585     (Insuf)    .00000     7.0000     6.0000    
+Berco.NumberBusy                            2.9767     (Insuf)    .00000     5.0000     5.0000    
+Berco.NumberScheduled                       5.0000     (Insuf)    5.0000     5.0000     5.0000    
+Berco.Utilization                           .59534     (Insuf)    .00000     1.0000     1.0000    
+Rebocador.NumberBusy                        .37318     (Corr)     .00000     2.0000     .00000    
+Rebocador.NumberScheduled                   2.0000     (Insuf)    2.0000     2.0000     2.0000    
+Rebocador.Utilization                       .18659     (Corr)     .00000     1.0000     .00000    
+Espera Barco.Queue.NumberInQueue            .08183     (Insuf)    .00000     2.0000     1.0000    
+Manobra de Entrada.Queue.NumberInQueue      .00660     (Insuf)    .00000     1.0000     .00000    
+Manobra de Saida.Queue.NumberInQueue        .01741     (Insuf)    .00000     2.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Navio.NumberIn                              111.00    
+Navio.NumberOut                             107.00    
+Berco.NumberSeized                          110.00    
+Berco.ScheduledUtilization                  .59534    
+Rebocador.NumberSeized                      271.00    
+Rebocador.ScheduledUtilization              .18659    
+System.NumberOut                            107.00    
+
+Iniciando replicação 19 de 40
+
+                                      ARENA Simulation Results
+                                  Laboratorio - License: 5454000146
+
+                                  Sumário para Replicação 19 de 40
+
+Projeto: Unnamed Project                                             Data da execução :11/18/2026
+Analista: Laboratorio                                                 Data de revisão do modelo:11/18/2026
+
+Replicação terminada no tempo de      : 43200.0 Minutos 
+Statísticas foram apuradas no tempo de: 4320.0 Minutos (Sunday, November 22, 2026, 00:00:00)
+Statísticas acumuladas para o tempo de: 38880.0 Minutos
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Tempo no Porto                              1584.5     (Insuf)    392.40     7341.3        108    
+Espera no Fundeio                           265.29     (Insuf)    .00000     1789.6        105    
+Navio.VATime                                1317.5     (Insuf)    253.19     7341.3        108    
+Navio.NVATime                               .00000     (Insuf)    .00000     .00000        108    
+Navio.WaitTime                              267.06     (Insuf)    .00000     1789.6        108    
+Navio.TranTime                              .00000     (Insuf)    .00000     .00000        108    
+Navio.OtherTime                             .00000     (Insuf)    .00000     .00000        108    
+Navio.TotalTime                             1584.5     (Insuf)    392.40     7341.3        108    
+Espera Barco.Queue.WaitingTime              265.29     (Insuf)    .00000     1789.6        105    
+Manobra de Entrada.Queue.WaitingTime        3.4460     (Insuf)    .00000     55.940        105    
+Manobra de Saida.Queue.WaitingTime          5.7890     (Insuf)    .00000     108.31        108    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Navio.WIP                                   4.3192     (Insuf)    .00000     12.000     .00000    
+Berco.NumberBusy                            3.6027     (Insuf)    .00000     5.0000     .00000    
+Berco.NumberScheduled                       5.0000     (Insuf)    5.0000     5.0000     5.0000    
+Berco.Utilization                           .72056     (Insuf)    .00000     1.0000     .00000    
+Rebocador.NumberBusy                        .37079     .05517     .00000     2.0000     .00000    
+Rebocador.NumberScheduled                   2.0000     (Insuf)    2.0000     2.0000     2.0000    
+Rebocador.Utilization                       .18539     .02759     .00000     1.0000     .00000    
+Espera Barco.Queue.NumberInQueue            .71645     (Insuf)    .00000     7.0000     .00000    
+Manobra de Entrada.Queue.NumberInQueue      .00931     (Insuf)    .00000     1.0000     .00000    
+Manobra de Saida.Queue.NumberInQueue        .01608     (Insuf)    .00000     2.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Navio.NumberIn                              105.00    
+Navio.NumberOut                             108.00    
+Berco.NumberSeized                          105.00    
+Berco.ScheduledUtilization                  .72056    
+Rebocador.NumberSeized                      267.00    
+Rebocador.ScheduledUtilization              .18539    
+System.NumberOut                            108.00    
+
+Iniciando replicação 20 de 40
+
+                                      ARENA Simulation Results
+                                  Laboratorio - License: 5454000146
+
+                                  Sumário para Replicação 20 de 40
+
+Projeto: Unnamed Project                                             Data da execução :11/18/2026
+Analista: Laboratorio                                                 Data de revisão do modelo:11/18/2026
+
+Replicação terminada no tempo de      : 43200.0 Minutos 
+Statísticas foram apuradas no tempo de: 4320.0 Minutos (Sunday, November 22, 2026, 00:00:00)
+Statísticas acumuladas para o tempo de: 38880.0 Minutos
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Tempo no Porto                              1593.8     (Insuf)    426.61     8465.6         95    
+Espera no Fundeio                           152.43     (Insuf)    .00000     1004.5         94    
+Navio.VATime                                1435.9     (Insuf)    271.31     8465.6         95    
+Navio.NVATime                               .00000     (Insuf)    .00000     .00000         95    
+Navio.WaitTime                              157.89     (Insuf)    .00000     1004.5         95    
+Navio.TranTime                              .00000     (Insuf)    .00000     .00000         95    
+Navio.OtherTime                             .00000     (Insuf)    .00000     .00000         95    
+Navio.TotalTime                             1593.8     (Insuf)    426.61     8465.6         95    
+Espera Barco.Queue.WaitingTime              152.43     (Insuf)    .00000     1004.5         94    
+Manobra de Entrada.Queue.WaitingTime        3.8201     (Insuf)    .00000     77.164         94    
+Manobra de Saida.Queue.WaitingTime          3.2914     (Insuf)    .00000     60.228         95    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Navio.WIP                                   3.8686     (Insuf)    .00000     9.0000     2.0000    
+Berco.NumberBusy                            3.5001     (Insuf)    .00000     5.0000     2.0000    
+Berco.NumberScheduled                       5.0000     (Insuf)    5.0000     5.0000     5.0000    
+Berco.Utilization                           .70003     (Insuf)    .00000     1.0000     .40000    
+Rebocador.NumberBusy                        .33915     (Insuf)    .00000     2.0000     .00000    
+Rebocador.NumberScheduled                   2.0000     (Insuf)    2.0000     2.0000     2.0000    
+Rebocador.Utilization                       .16957     (Insuf)    .00000     1.0000     .00000    
+Espera Barco.Queue.NumberInQueue            .36854     (Insuf)    .00000     4.0000     .00000    
+Manobra de Entrada.Queue.NumberInQueue      .00924     (Insuf)    .00000     1.0000     .00000    
+Manobra de Saida.Queue.NumberInQueue        .00804     (Insuf)    .00000     1.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Navio.NumberIn                              94.000    
+Navio.NumberOut                             95.000    
+Berco.NumberSeized                          94.000    
+Berco.ScheduledUtilization                  .70003    
+Rebocador.NumberSeized                      248.00    
+Rebocador.ScheduledUtilization              .16957    
+System.NumberOut                            95.000    
+
+Iniciando replicação 21 de 40
+
+                                      ARENA Simulation Results
+                                  Laboratorio - License: 5454000146
+
+                                  Sumário para Replicação 21 de 40
+
+Projeto: Unnamed Project                                             Data da execução :11/18/2026
+Analista: Laboratorio                                                 Data de revisão do modelo:11/18/2026
+
+Replicação terminada no tempo de      : 43200.0 Minutos 
+Statísticas foram apuradas no tempo de: 4320.0 Minutos (Sunday, November 22, 2026, 00:00:00)
+Statísticas acumuladas para o tempo de: 38880.0 Minutos
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Tempo no Porto                              1442.4     (Insuf)    268.64     9570.4        107    
+Espera no Fundeio                           163.80     (Insuf)    .00000     1142.0        109    
+Navio.VATime                                1276.2     (Insuf)    268.64     9570.4        107    
+Navio.NVATime                               .00000     (Insuf)    .00000     .00000        107    
+Navio.WaitTime                              166.21     (Insuf)    .00000     1142.0        107    
+Navio.TranTime                              .00000     (Insuf)    .00000     .00000        107    
+Navio.OtherTime                             .00000     (Insuf)    .00000     .00000        107    
+Navio.TotalTime                             1442.4     (Insuf)    268.64     9570.4        107    
+Espera Barco.Queue.WaitingTime              163.80     (Insuf)    .00000     1142.0        109    
+Manobra de Entrada.Queue.WaitingTime        4.0497     (Insuf)    .00000     67.016        109    
+Manobra de Saida.Queue.WaitingTime          3.4317     (Insuf)    .00000     57.046        106    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Navio.WIP                                   4.1405     (Insuf)    1.0000     9.0000     8.0000    
+Berco.NumberBusy                            3.6509     (Insuf)    1.0000     5.0000     5.0000    
+Berco.NumberScheduled                       5.0000     (Insuf)    5.0000     5.0000     5.0000    
+Berco.Utilization                           .73020     (Insuf)    .20000     1.0000     1.0000    
+Rebocador.NumberBusy                        .38066     (Corr)     .00000     2.0000     .00000    
+Rebocador.NumberScheduled                   2.0000     (Insuf)    2.0000     2.0000     2.0000    
+Rebocador.Utilization                       .19033     (Corr)     .00000     1.0000     .00000    
+Espera Barco.Queue.NumberInQueue            .48958     (Insuf)    .00000     4.0000     3.0000    
+Manobra de Entrada.Queue.NumberInQueue      .01135     (Insuf)    .00000     1.0000     .00000    
+Manobra de Saida.Queue.NumberInQueue        .00936     (Insuf)    .00000     1.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Navio.NumberIn                              112.00    
+Navio.NumberOut                             107.00    
+Berco.NumberSeized                          109.00    
+Berco.ScheduledUtilization                  .73020    
+Rebocador.NumberSeized                      274.00    
+Rebocador.ScheduledUtilization              .19033    
+System.NumberOut                            107.00    
+
+Iniciando replicação 22 de 40
+
+                                      ARENA Simulation Results
+                                  Laboratorio - License: 5454000146
+
+                                  Sumário para Replicação 22 de 40
+
+Projeto: Unnamed Project                                             Data da execução :11/18/2026
+Analista: Laboratorio                                                 Data de revisão do modelo:11/18/2026
+
+Replicação terminada no tempo de      : 43200.0 Minutos 
+Statísticas foram apuradas no tempo de: 4320.0 Minutos (Sunday, November 22, 2026, 00:00:00)
+Statísticas acumuladas para o tempo de: 38880.0 Minutos
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Tempo no Porto                              1360.9     (Insuf)    305.37     3304.1         99    
+Espera no Fundeio                           93.841     (Insuf)    .00000     730.43        100    
+Navio.VATime                                1261.8     (Insuf)    305.37     3207.1         99    
+Navio.NVATime                               .00000     (Insuf)    .00000     .00000         99    
+Navio.WaitTime                              99.160     (Insuf)    .00000     730.43         99    
+Navio.TranTime                              .00000     (Insuf)    .00000     .00000         99    
+Navio.OtherTime                             .00000     (Insuf)    .00000     .00000         99    
+Navio.TotalTime                             1360.9     (Insuf)    305.37     3304.1         99    
+Espera Barco.Queue.WaitingTime              93.841     (Insuf)    .00000     730.43        100    
+Manobra de Entrada.Queue.WaitingTime        .37404     (Insuf)    .00000     21.576        100    
+Manobra de Saida.Queue.WaitingTime          3.9934     (Insuf)    .00000     71.520         99    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Navio.WIP                                   3.4529     (Insuf)    .00000     10.000     5.0000    
+Berco.NumberBusy                            3.2115     (Insuf)    .00000     5.0000     5.0000    
+Berco.NumberScheduled                       5.0000     (Insuf)    5.0000     5.0000     5.0000    
+Berco.Utilization                           .64232     (Insuf)    .00000     1.0000     1.0000    
+Rebocador.NumberBusy                        .33086     .05254     .00000     2.0000     1.0000    
+Rebocador.NumberScheduled                   2.0000     (Insuf)    2.0000     2.0000     2.0000    
+Rebocador.Utilization                       .16543     .02627     .00000     1.0000     .50000    
+Espera Barco.Queue.NumberInQueue            .24136     (Insuf)    .00000     5.0000     .00000    
+Manobra de Entrada.Queue.NumberInQueue       9.6205E-4 (Insuf)    .00000     1.0000     .00000    
+Manobra de Saida.Queue.NumberInQueue        .01017     (Insuf)    .00000     2.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Navio.NumberIn                              100.00    
+Navio.NumberOut                             99.000    
+Berco.NumberSeized                          100.00    
+Berco.ScheduledUtilization                  .64232    
+Rebocador.NumberSeized                      245.00    
+Rebocador.ScheduledUtilization              .16543    
+System.NumberOut                            99.000    
+
+Iniciando replicação 23 de 40
+
+                                      ARENA Simulation Results
+                                  Laboratorio - License: 5454000146
+
+                                  Sumário para Replicação 23 de 40
+
+Projeto: Unnamed Project                                             Data da execução :11/18/2026
+Analista: Laboratorio                                                 Data de revisão do modelo:11/18/2026
+
+Replicação terminada no tempo de      : 43200.0 Minutos 
+Statísticas foram apuradas no tempo de: 4320.0 Minutos (Sunday, November 22, 2026, 00:00:00)
+Statísticas acumuladas para o tempo de: 38880.0 Minutos
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Tempo no Porto                              1534.0     (Insuf)    373.20     6496.9        100    
+Espera no Fundeio                           172.90     (Insuf)    .00000     1795.1         97    
+Navio.VATime                                1352.5     (Insuf)    277.14     6496.9        100    
+Navio.NVATime                               .00000     (Insuf)    .00000     .00000        100    
+Navio.WaitTime                              181.55     (Insuf)    .00000     1795.1        100    
+Navio.TranTime                              .00000     (Insuf)    .00000     .00000        100    
+Navio.OtherTime                             .00000     (Insuf)    .00000     .00000        100    
+Navio.TotalTime                             1534.0     (Insuf)    373.20     6496.9        100    
+Espera Barco.Queue.WaitingTime              172.90     (Insuf)    .00000     1795.1         97    
+Manobra de Entrada.Queue.WaitingTime        6.6696     (Insuf)    .00000     138.52         97    
+Manobra de Saida.Queue.WaitingTime          4.7802     (Insuf)    .00000     63.400        100    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Navio.WIP                                   3.8309     (Insuf)    .00000     10.000     2.0000    
+Berco.NumberBusy                            3.4031     (Insuf)    .00000     5.0000     2.0000    
+Berco.NumberScheduled                       5.0000     (Insuf)    5.0000     5.0000     5.0000    
+Berco.Utilization                           .68063     (Insuf)    .00000     1.0000     .40000    
+Rebocador.NumberBusy                        .34800     (Insuf)    .00000     2.0000     .00000    
+Rebocador.NumberScheduled                   2.0000     (Insuf)    2.0000     2.0000     2.0000    
+Rebocador.Utilization                       .17400     (Insuf)    .00000     1.0000     .00000    
+Espera Barco.Queue.NumberInQueue            .42784     (Insuf)    .00000     5.0000     .00000    
+Manobra de Entrada.Queue.NumberInQueue      .01664     (Insuf)    .00000     1.0000     .00000    
+Manobra de Saida.Queue.NumberInQueue        .01229     (Insuf)    .00000     2.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Navio.NumberIn                              96.000    
+Navio.NumberOut                             100.00    
+Berco.NumberSeized                          97.000    
+Berco.ScheduledUtilization                  .68063    
+Rebocador.NumberSeized                      252.00    
+Rebocador.ScheduledUtilization              .17400    
+System.NumberOut                            100.00    
+
+Iniciando replicação 24 de 40
+
+                                      ARENA Simulation Results
+                                  Laboratorio - License: 5454000146
+
+                                  Sumário para Replicação 24 de 40
+
+Projeto: Unnamed Project                                             Data da execução :11/18/2026
+Analista: Laboratorio                                                 Data de revisão do modelo:11/18/2026
+
+Replicação terminada no tempo de      : 43200.0 Minutos 
+Statísticas foram apuradas no tempo de: 4320.0 Minutos (Sunday, November 22, 2026, 00:00:00)
+Statísticas acumuladas para o tempo de: 38880.0 Minutos
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Tempo no Porto                              1280.3     (Insuf)    374.86     4862.2         81    
+Espera no Fundeio                           34.693     (Insuf)    .00000     578.13         84    
+Navio.VATime                                1242.8     (Insuf)    374.86     4855.7         81    
+Navio.NVATime                               .00000     (Insuf)    .00000     .00000         81    
+Navio.WaitTime                              37.545     (Insuf)    .00000     586.01         81    
+Navio.TranTime                              .00000     (Insuf)    .00000     .00000         81    
+Navio.OtherTime                             .00000     (Insuf)    .00000     .00000         81    
+Navio.TotalTime                             1280.3     (Insuf)    374.86     4862.2         81    
+Espera Barco.Queue.WaitingTime              34.693     (Insuf)    .00000     578.13         84    
+Manobra de Entrada.Queue.WaitingTime        2.3665     (Insuf)    .00000     60.973         84    
+Manobra de Saida.Queue.WaitingTime          2.0101     (Insuf)    .00000     57.627         81    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Navio.WIP                                   2.9465     (Insuf)    .00000     8.0000     5.0000    
+Berco.NumberBusy                            2.8715     (Insuf)    .00000     5.0000     5.0000    
+Berco.NumberScheduled                       5.0000     (Insuf)    5.0000     5.0000     5.0000    
+Berco.Utilization                           .57431     (Insuf)    .00000     1.0000     1.0000    
+Rebocador.NumberBusy                        .28055     (Insuf)    .00000     2.0000     .00000    
+Rebocador.NumberScheduled                   2.0000     (Insuf)    2.0000     2.0000     2.0000    
+Rebocador.Utilization                       .14027     (Insuf)    .00000     1.0000     .00000    
+Espera Barco.Queue.NumberInQueue            .07495     (Insuf)    .00000     3.0000     .00000    
+Manobra de Entrada.Queue.NumberInQueue      .00511     (Insuf)    .00000     1.0000     .00000    
+Manobra de Saida.Queue.NumberInQueue        .00419     (Insuf)    .00000     1.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Navio.NumberIn                              84.000    
+Navio.NumberOut                             81.000    
+Berco.NumberSeized                          84.000    
+Berco.ScheduledUtilization                  .57431    
+Rebocador.NumberSeized                      198.00    
+Rebocador.ScheduledUtilization              .14027    
+System.NumberOut                            81.000    
+
+Iniciando replicação 25 de 40
+
+                                      ARENA Simulation Results
+                                  Laboratorio - License: 5454000146
+
+                                  Sumário para Replicação 25 de 40
+
+Projeto: Unnamed Project                                             Data da execução :11/18/2026
+Analista: Laboratorio                                                 Data de revisão do modelo:11/18/2026
+
+Replicação terminada no tempo de      : 43200.0 Minutos 
+Statísticas foram apuradas no tempo de: 4320.0 Minutos (Sunday, November 22, 2026, 00:00:00)
+Statísticas acumuladas para o tempo de: 38880.0 Minutos
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Tempo no Porto                              1346.2     (Insuf)    377.29     5529.0         95    
+Espera no Fundeio                           121.08     (Insuf)    .00000     1072.2         96    
+Navio.VATime                                1213.8     (Insuf)    363.15     5396.7         95    
+Navio.NVATime                               .00000     (Insuf)    .00000     .00000         95    
+Navio.WaitTime                              132.35     (Insuf)    .00000     1072.2         95    
+Navio.TranTime                              .00000     (Insuf)    .00000     .00000         95    
+Navio.OtherTime                             .00000     (Insuf)    .00000     .00000         95    
+Navio.TotalTime                             1346.2     (Insuf)    377.29     5529.0         95    
+Espera Barco.Queue.WaitingTime              121.08     (Insuf)    .00000     1072.2         96    
+Manobra de Entrada.Queue.WaitingTime        2.0351     (Insuf)    .00000     59.457         96    
+Manobra de Saida.Queue.WaitingTime          3.0558     (Insuf)    .00000     68.992         94    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Navio.WIP                                   3.4242     (Insuf)    .00000     9.0000     6.0000    
+Berco.NumberBusy                            3.1216     (Insuf)    .00000     5.0000     5.0000    
+Berco.NumberScheduled                       5.0000     (Insuf)    5.0000     5.0000     5.0000    
+Berco.Utilization                           .62433     (Insuf)    .00000     1.0000     1.0000    
+Rebocador.NumberBusy                        .31738     .05018     .00000     2.0000     .00000    
+Rebocador.NumberScheduled                   2.0000     (Insuf)    2.0000     2.0000     2.0000    
+Rebocador.Utilization                       .15869     .02509     .00000     1.0000     .00000    
+Espera Barco.Queue.NumberInQueue            .30264     (Insuf)    .00000     4.0000     1.0000    
+Manobra de Entrada.Queue.NumberInQueue      .00503     (Insuf)    .00000     1.0000     .00000    
+Manobra de Saida.Queue.NumberInQueue        .00739     (Insuf)    .00000     1.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Navio.NumberIn                              97.000    
+Navio.NumberOut                             95.000    
+Berco.NumberSeized                          96.000    
+Berco.ScheduledUtilization                  .62433    
+Rebocador.NumberSeized                      235.00    
+Rebocador.ScheduledUtilization              .15869    
+System.NumberOut                            95.000    
+
+Iniciando replicação 26 de 40
+
+                                      ARENA Simulation Results
+                                  Laboratorio - License: 5454000146
+
+                                  Sumário para Replicação 26 de 40
+
+Projeto: Unnamed Project                                             Data da execução :11/18/2026
+Analista: Laboratorio                                                 Data de revisão do modelo:11/18/2026
+
+Replicação terminada no tempo de      : 43200.0 Minutos 
+Statísticas foram apuradas no tempo de: 4320.0 Minutos (Sunday, November 22, 2026, 00:00:00)
+Statísticas acumuladas para o tempo de: 38880.0 Minutos
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Tempo no Porto                              1695.8     (Insuf)    388.40     4410.9         85    
+Espera no Fundeio                           255.57     (Insuf)    .00000     2227.1         82    
+Navio.VATime                                1416.2     (Insuf)    388.40     4247.8         85    
+Navio.NVATime                               .00000     (Insuf)    .00000     .00000         85    
+Navio.WaitTime                              279.52     (Insuf)    .00000     2253.9         85    
+Navio.TranTime                              .00000     (Insuf)    .00000     .00000         85    
+Navio.OtherTime                             .00000     (Insuf)    .00000     .00000         85    
+Navio.TotalTime                             1695.8     (Insuf)    388.40     4410.9         85    
+Espera Barco.Queue.WaitingTime              255.57     (Insuf)    .00000     2227.1         82    
+Manobra de Entrada.Queue.WaitingTime        3.9293     (Insuf)    .00000     74.918         82    
+Manobra de Saida.Queue.WaitingTime          4.5913     (Insuf)    .00000     62.541         85    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Navio.WIP                                   3.4061     (Insuf)    .00000     11.000     2.0000    
+Berco.NumberBusy                            2.9690     (Insuf)    .00000     5.0000     2.0000    
+Berco.NumberScheduled                       5.0000     (Insuf)    5.0000     5.0000     5.0000    
+Berco.Utilization                           .59381     (Insuf)    .00000     1.0000     .40000    
+Rebocador.NumberBusy                        .31219     (Insuf)    .00000     2.0000     .00000    
+Rebocador.NumberScheduled                   2.0000     (Insuf)    2.0000     2.0000     2.0000    
+Rebocador.Utilization                       .15610     (Insuf)    .00000     1.0000     .00000    
+Espera Barco.Queue.NumberInQueue            .43707     (Insuf)    .00000     6.0000     .00000    
+Manobra de Entrada.Queue.NumberInQueue      .00829     (Insuf)    .00000     1.0000     .00000    
+Manobra de Saida.Queue.NumberInQueue        .01004     (Insuf)    .00000     2.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Navio.NumberIn                              77.000    
+Navio.NumberOut                             85.000    
+Berco.NumberSeized                          82.000    
+Berco.ScheduledUtilization                  .59381    
+Rebocador.NumberSeized                      224.00    
+Rebocador.ScheduledUtilization              .15610    
+System.NumberOut                            85.000    
+
+Iniciando replicação 27 de 40
+
+                                      ARENA Simulation Results
+                                  Laboratorio - License: 5454000146
+
+                                  Sumário para Replicação 27 de 40
+
+Projeto: Unnamed Project                                             Data da execução :11/18/2026
+Analista: Laboratorio                                                 Data de revisão do modelo:11/18/2026
+
+Replicação terminada no tempo de      : 43200.0 Minutos 
+Statísticas foram apuradas no tempo de: 4320.0 Minutos (Sunday, November 22, 2026, 00:00:00)
+Statísticas acumuladas para o tempo de: 38880.0 Minutos
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Tempo no Porto                              1164.9     (Insuf)    337.94     8895.9        100    
+Espera no Fundeio                           49.732     (Insuf)    .00000     678.14        102    
+Navio.VATime                                1109.6     (Insuf)    292.20     8866.2        100    
+Navio.NVATime                               .00000     (Insuf)    .00000     .00000        100    
+Navio.WaitTime                              55.326     (Insuf)    .00000     678.14        100    
+Navio.TranTime                              .00000     (Insuf)    .00000     .00000        100    
+Navio.OtherTime                             .00000     (Insuf)    .00000     .00000        100    
+Navio.TotalTime                             1164.9     (Insuf)    337.94     8895.9        100    
+Espera Barco.Queue.WaitingTime              49.732     (Insuf)    .00000     678.14        102    
+Manobra de Entrada.Queue.WaitingTime        2.2825     (Insuf)    .00000     61.465        102    
+Manobra de Saida.Queue.WaitingTime          2.3164     (Insuf)    .00000     57.911        100    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Navio.WIP                                   3.0112     (Insuf)    .00000     7.0000     4.0000    
+Berco.NumberBusy                            2.8808     (Insuf)    .00000     5.0000     4.0000    
+Berco.NumberScheduled                       5.0000     (Insuf)    5.0000     5.0000     5.0000    
+Berco.Utilization                           .57616     (Insuf)    .00000     1.0000     .80000    
+Rebocador.NumberBusy                        .36301     .05686     .00000     2.0000     .00000    
+Rebocador.NumberScheduled                   2.0000     (Insuf)    2.0000     2.0000     2.0000    
+Rebocador.Utilization                       .18150     .02843     .00000     1.0000     .00000    
+Espera Barco.Queue.NumberInQueue            .13047     (Insuf)    .00000     2.0000     .00000    
+Manobra de Entrada.Queue.NumberInQueue      .00599     (Insuf)    .00000     1.0000     .00000    
+Manobra de Saida.Queue.NumberInQueue        .00596     (Insuf)    .00000     1.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Navio.NumberIn                              102.00    
+Navio.NumberOut                             100.00    
+Berco.NumberSeized                          102.00    
+Berco.ScheduledUtilization                  .57616    
+Rebocador.NumberSeized                      262.00    
+Rebocador.ScheduledUtilization              .18150    
+System.NumberOut                            100.00    
+
+Iniciando replicação 28 de 40
+
+                                      ARENA Simulation Results
+                                  Laboratorio - License: 5454000146
+
+                                  Sumário para Replicação 28 de 40
+
+Projeto: Unnamed Project                                             Data da execução :11/18/2026
+Analista: Laboratorio                                                 Data de revisão do modelo:11/18/2026
+
+Replicação terminada no tempo de      : 43200.0 Minutos 
+Statísticas foram apuradas no tempo de: 4320.0 Minutos (Sunday, November 22, 2026, 00:00:00)
+Statísticas acumuladas para o tempo de: 38880.0 Minutos
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Tempo no Porto                              1457.4     (Insuf)    347.67     8504.4        100    
+Espera no Fundeio                           99.082     (Insuf)    .00000     1407.1         99    
+Navio.VATime                                1349.8     (Insuf)    314.32     8504.4        100    
+Navio.NVATime                               .00000     (Insuf)    .00000     .00000        100    
+Navio.WaitTime                              107.57     (Insuf)    .00000     1407.1        100    
+Navio.TranTime                              .00000     (Insuf)    .00000     .00000        100    
+Navio.OtherTime                             .00000     (Insuf)    .00000     .00000        100    
+Navio.TotalTime                             1457.4     (Insuf)    347.67     8504.4        100    
+Espera Barco.Queue.WaitingTime              99.082     (Insuf)    .00000     1407.1         99    
+Manobra de Entrada.Queue.WaitingTime        3.6953     (Insuf)    .00000     84.659         99    
+Manobra de Saida.Queue.WaitingTime          5.4100     (Insuf)    .00000     90.573        101    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Navio.WIP                                   3.7543     (Insuf)    .00000     9.0000     3.0000    
+Berco.NumberBusy                            3.5020     (Insuf)    .00000     5.0000     3.0000    
+Berco.NumberScheduled                       5.0000     (Insuf)    5.0000     5.0000     5.0000    
+Berco.Utilization                           .70041     (Insuf)    .00000     1.0000     .60000    
+Rebocador.NumberBusy                        .35164     (Insuf)    .00000     2.0000     1.0000    
+Rebocador.NumberScheduled                   2.0000     (Insuf)    2.0000     2.0000     2.0000    
+Rebocador.Utilization                       .17582     (Insuf)    .00000     1.0000     .50000    
+Espera Barco.Queue.NumberInQueue            .25229     (Insuf)    .00000     4.0000     .00000    
+Manobra de Entrada.Queue.NumberInQueue      .00941     (Insuf)    .00000     2.0000     .00000    
+Manobra de Saida.Queue.NumberInQueue        .01405     (Insuf)    .00000     3.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Navio.NumberIn                              99.000    
+Navio.NumberOut                             100.00    
+Berco.NumberSeized                          99.000    
+Berco.ScheduledUtilization                  .70041    
+Rebocador.NumberSeized                      255.00    
+Rebocador.ScheduledUtilization              .17582    
+System.NumberOut                            100.00    
+
+Iniciando replicação 29 de 40
+
+                                      ARENA Simulation Results
+                                  Laboratorio - License: 5454000146
+
+                                  Sumário para Replicação 29 de 40
+
+Projeto: Unnamed Project                                             Data da execução :11/18/2026
+Analista: Laboratorio                                                 Data de revisão do modelo:11/18/2026
+
+Replicação terminada no tempo de      : 43200.0 Minutos 
+Statísticas foram apuradas no tempo de: 4320.0 Minutos (Sunday, November 22, 2026, 00:00:00)
+Statísticas acumuladas para o tempo de: 38880.0 Minutos
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Tempo no Porto                              1401.7     (Insuf)    388.32     7677.9        105    
+Espera no Fundeio                           108.24     (Insuf)    .00000     909.81        104    
+Navio.VATime                                1284.9     (Insuf)    359.22     7666.6        105    
+Navio.NVATime                               .00000     (Insuf)    .00000     .00000        105    
+Navio.WaitTime                              116.81     (Insuf)    .00000     909.81        105    
+Navio.TranTime                              .00000     (Insuf)    .00000     .00000        105    
+Navio.OtherTime                             .00000     (Insuf)    .00000     .00000        105    
+Navio.TotalTime                             1401.7     (Insuf)    388.32     7677.9        105    
+Espera Barco.Queue.WaitingTime              108.24     (Insuf)    .00000     909.81        104    
+Manobra de Entrada.Queue.WaitingTime        6.8391     (Insuf)    .00000     121.21        104    
+Manobra de Saida.Queue.WaitingTime          4.0794     (Insuf)    .00000     50.977        105    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Navio.WIP                                   3.6626     (Insuf)    .00000     8.0000     3.0000    
+Berco.NumberBusy                            3.3731     (Insuf)    .00000     5.0000     3.0000    
+Berco.NumberScheduled                       5.0000     (Insuf)    5.0000     5.0000     5.0000    
+Berco.Utilization                           .67463     (Insuf)    .00000     1.0000     .60000    
+Rebocador.NumberBusy                        .34882     .05741     .00000     2.0000     .00000    
+Rebocador.NumberScheduled                   2.0000     (Insuf)    2.0000     2.0000     2.0000    
+Rebocador.Utilization                       .17441     .02871     .00000     1.0000     .00000    
+Espera Barco.Queue.NumberInQueue            .28955     (Insuf)    .00000     3.0000     .00000    
+Manobra de Entrada.Queue.NumberInQueue      .01829     (Insuf)    .00000     2.0000     .00000    
+Manobra de Saida.Queue.NumberInQueue        .01102     (Insuf)    .00000     2.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Navio.NumberIn                              104.00    
+Navio.NumberOut                             105.00    
+Berco.NumberSeized                          104.00    
+Berco.ScheduledUtilization                  .67463    
+Rebocador.NumberSeized                      250.00    
+Rebocador.ScheduledUtilization              .17441    
+System.NumberOut                            105.00    
+
+Iniciando replicação 30 de 40
+
+                                      ARENA Simulation Results
+                                  Laboratorio - License: 5454000146
+
+                                  Sumário para Replicação 30 de 40
+
+Projeto: Unnamed Project                                             Data da execução :11/18/2026
+Analista: Laboratorio                                                 Data de revisão do modelo:11/18/2026
+
+Replicação terminada no tempo de      : 43200.0 Minutos 
+Statísticas foram apuradas no tempo de: 4320.0 Minutos (Sunday, November 22, 2026, 00:00:00)
+Statísticas acumuladas para o tempo de: 38880.0 Minutos
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Tempo no Porto                              1312.2     (Insuf)    395.35     5021.1         91    
+Espera no Fundeio                           81.262     (Insuf)    .00000     1271.2         94    
+Navio.VATime                                1221.6     (Insuf)    395.35     5021.1         91    
+Navio.NVATime                               .00000     (Insuf)    .00000     .00000         91    
+Navio.WaitTime                              90.577     (Insuf)    .00000     1271.2         91    
+Navio.TranTime                              .00000     (Insuf)    .00000     .00000         91    
+Navio.OtherTime                             .00000     (Insuf)    .00000     .00000         91    
+Navio.TotalTime                             1312.2     (Insuf)    395.35     5021.1         91    
+Espera Barco.Queue.WaitingTime              81.262     (Insuf)    .00000     1271.2         94    
+Manobra de Entrada.Queue.WaitingTime        2.5985     (Insuf)    .00000     58.180         94    
+Manobra de Saida.Queue.WaitingTime          2.7790     (Insuf)    .00000     58.408         91    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Navio.WIP                                   3.0820     (Insuf)    .00000     8.0000     4.0000    
+Berco.NumberBusy                            2.8856     (Insuf)    .00000     5.0000     4.0000    
+Berco.NumberScheduled                       5.0000     (Insuf)    5.0000     5.0000     5.0000    
+Berco.Utilization                           .57712     (Insuf)    .00000     1.0000     .80000    
+Rebocador.NumberBusy                        .30918     .04544     .00000     2.0000     1.0000    
+Rebocador.NumberScheduled                   2.0000     (Insuf)    2.0000     2.0000     2.0000    
+Rebocador.Utilization                       .15459     .02272     .00000     1.0000     .50000    
+Espera Barco.Queue.NumberInQueue            .19647     (Insuf)    .00000     3.0000     .00000    
+Manobra de Entrada.Queue.NumberInQueue      .00628     (Insuf)    .00000     1.0000     .00000    
+Manobra de Saida.Queue.NumberInQueue        .00650     (Insuf)    .00000     1.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Navio.NumberIn                              94.000    
+Navio.NumberOut                             91.000    
+Berco.NumberSeized                          94.000    
+Berco.ScheduledUtilization                  .57712    
+Rebocador.NumberSeized                      231.00    
+Rebocador.ScheduledUtilization              .15459    
+System.NumberOut                            91.000    
+
+Iniciando replicação 31 de 40
+
+                                      ARENA Simulation Results
+                                  Laboratorio - License: 5454000146
+
+                                  Sumário para Replicação 31 de 40
+
+Projeto: Unnamed Project                                             Data da execução :11/18/2026
+Analista: Laboratorio                                                 Data de revisão do modelo:11/18/2026
+
+Replicação terminada no tempo de      : 43200.0 Minutos 
+Statísticas foram apuradas no tempo de: 4320.0 Minutos (Sunday, November 22, 2026, 00:00:00)
+Statísticas acumuladas para o tempo de: 38880.0 Minutos
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Tempo no Porto                              1304.0     (Insuf)    375.00     4813.9        106    
+Espera no Fundeio                           70.212     (Insuf)    .00000     883.86        108    
+Navio.VATime                                1227.2     (Insuf)    375.00     4635.2        106    
+Navio.NVATime                               .00000     (Insuf)    .00000     .00000        106    
+Navio.WaitTime                              76.793     (Insuf)    .00000     883.86        106    
+Navio.TranTime                              .00000     (Insuf)    .00000     .00000        106    
+Navio.OtherTime                             .00000     (Insuf)    .00000     .00000        106    
+Navio.TotalTime                             1304.0     (Insuf)    375.00     4813.9        106    
+Espera Barco.Queue.WaitingTime              70.212     (Insuf)    .00000     883.86        108    
+Manobra de Entrada.Queue.WaitingTime        1.8566     (Insuf)    .00000     64.010        108    
+Manobra de Saida.Queue.WaitingTime          4.8574     (Insuf)    .00000     87.815        106    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Navio.WIP                                   3.6252     (Insuf)    1.0000     8.0000     3.0000    
+Berco.NumberBusy                            3.4302     (Insuf)    1.0000     5.0000     3.0000    
+Berco.NumberScheduled                       5.0000     (Insuf)    5.0000     5.0000     5.0000    
+Berco.Utilization                           .68604     (Insuf)    .20000     1.0000     .60000    
+Rebocador.NumberBusy                        .34884     .06310     .00000     2.0000     .00000    
+Rebocador.NumberScheduled                   2.0000     (Insuf)    2.0000     2.0000     2.0000    
+Rebocador.Utilization                       .17442     .03155     .00000     1.0000     .00000    
+Espera Barco.Queue.NumberInQueue            .19503     (Insuf)    .00000     3.0000     .00000    
+Manobra de Entrada.Queue.NumberInQueue      .00516     (Insuf)    .00000     2.0000     .00000    
+Manobra de Saida.Queue.NumberInQueue        .01324     (Insuf)    .00000     2.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Navio.NumberIn                              108.00    
+Navio.NumberOut                             106.00    
+Berco.NumberSeized                          108.00    
+Berco.ScheduledUtilization                  .68604    
+Rebocador.NumberSeized                      259.00    
+Rebocador.ScheduledUtilization              .17442    
+System.NumberOut                            106.00    
+
+Iniciando replicação 32 de 40
+
+                                      ARENA Simulation Results
+                                  Laboratorio - License: 5454000146
+
+                                  Sumário para Replicação 32 de 40
+
+Projeto: Unnamed Project                                             Data da execução :11/18/2026
+Analista: Laboratorio                                                 Data de revisão do modelo:11/18/2026
+
+Replicação terminada no tempo de      : 43200.0 Minutos 
+Statísticas foram apuradas no tempo de: 4320.0 Minutos (Sunday, November 22, 2026, 00:00:00)
+Statísticas acumuladas para o tempo de: 38880.0 Minutos
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Tempo no Porto                              1426.6     (Insuf)    319.11     7493.9        110    
+Espera no Fundeio                           121.54     (Insuf)    .00000     1270.7        113    
+Navio.VATime                                1290.8     (Insuf)    319.11     7465.6        110    
+Navio.NVATime                               .00000     (Insuf)    .00000     .00000        110    
+Navio.WaitTime                              135.73     (Insuf)    .00000     1270.7        110    
+Navio.TranTime                              .00000     (Insuf)    .00000     .00000        110    
+Navio.OtherTime                             .00000     (Insuf)    .00000     .00000        110    
+Navio.TotalTime                             1426.6     (Insuf)    319.11     7493.9        110    
+Espera Barco.Queue.WaitingTime              121.54     (Insuf)    .00000     1270.7        113    
+Manobra de Entrada.Queue.WaitingTime        7.0472     (Insuf)    .00000     108.92        113    
+Manobra de Saida.Queue.WaitingTime          3.9774     (Insuf)    .00000     65.336        110    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Navio.WIP                                   4.0989     (Insuf)    .00000     10.000     3.0000    
+Berco.NumberBusy                            3.7456     (Insuf)    .00000     5.0000     3.0000    
+Berco.NumberScheduled                       5.0000     (Insuf)    5.0000     5.0000     5.0000    
+Berco.Utilization                           .74913     (Insuf)    .00000     1.0000     .60000    
+Rebocador.NumberBusy                        .40980     .04276     .00000     2.0000     .00000    
+Rebocador.NumberScheduled                   2.0000     (Insuf)    2.0000     2.0000     2.0000    
+Rebocador.Utilization                       .20490     .02138     .00000     1.0000     .00000    
+Espera Barco.Queue.NumberInQueue            .35325     (Insuf)    .00000     5.0000     .00000    
+Manobra de Entrada.Queue.NumberInQueue      .02048     (Insuf)    .00000     2.0000     .00000    
+Manobra de Saida.Queue.NumberInQueue        .01125     (Insuf)    .00000     2.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Navio.NumberIn                              113.00    
+Navio.NumberOut                             110.00    
+Berco.NumberSeized                          113.00    
+Berco.ScheduledUtilization                  .74913    
+Rebocador.NumberSeized                      291.00    
+Rebocador.ScheduledUtilization              .20490    
+System.NumberOut                            110.00    
+
+Iniciando replicação 33 de 40
+
+                                      ARENA Simulation Results
+                                  Laboratorio - License: 5454000146
+
+                                  Sumário para Replicação 33 de 40
+
+Projeto: Unnamed Project                                             Data da execução :11/18/2026
+Analista: Laboratorio                                                 Data de revisão do modelo:11/18/2026
+
+Replicação terminada no tempo de      : 43200.0 Minutos 
+Statísticas foram apuradas no tempo de: 4320.0 Minutos (Sunday, November 22, 2026, 00:00:00)
+Statísticas acumuladas para o tempo de: 38880.0 Minutos
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Tempo no Porto                              1362.7     (Insuf)    338.58     7194.0        101    
+Espera no Fundeio                           119.02     (Insuf)    .00000     1919.3         97    
+Navio.VATime                                1219.2     (Insuf)    338.58     7194.0        101    
+Navio.NVATime                               .00000     (Insuf)    .00000     .00000        101    
+Navio.WaitTime                              143.55     (Insuf)    .00000     1959.3        101    
+Navio.TranTime                              .00000     (Insuf)    .00000     .00000        101    
+Navio.OtherTime                             .00000     (Insuf)    .00000     .00000        101    
+Navio.TotalTime                             1362.7     (Insuf)    338.58     7194.0        101    
+Espera Barco.Queue.WaitingTime              119.02     (Insuf)    .00000     1919.3         97    
+Manobra de Entrada.Queue.WaitingTime        4.3448     (Insuf)    .00000     87.900         97    
+Manobra de Saida.Queue.WaitingTime          5.4053     (Insuf)    .00000     79.252        101    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Navio.WIP                                   3.1960     (Insuf)    .00000     10.000     1.0000    
+Berco.NumberBusy                            3.0118     (Insuf)    .00000     5.0000     1.0000    
+Berco.NumberScheduled                       5.0000     (Insuf)    5.0000     5.0000     5.0000    
+Berco.Utilization                           .60237     (Insuf)    .00000     1.0000     .20000    
+Rebocador.NumberBusy                        .35168     .05346     .00000     2.0000     .00000    
+Rebocador.NumberScheduled                   2.0000     (Insuf)    2.0000     2.0000     2.0000    
+Rebocador.Utilization                       .17584     .02673     .00000     1.0000     .00000    
+Espera Barco.Queue.NumberInQueue            .18419     (Insuf)    .00000     5.0000     .00000    
+Manobra de Entrada.Queue.NumberInQueue      .01084     (Insuf)    .00000     2.0000     .00000    
+Manobra de Saida.Queue.NumberInQueue        .01404     (Insuf)    .00000     2.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Navio.NumberIn                              92.000    
+Navio.NumberOut                             101.00    
+Berco.NumberSeized                          97.000    
+Berco.ScheduledUtilization                  .60237    
+Rebocador.NumberSeized                      255.00    
+Rebocador.ScheduledUtilization              .17584    
+System.NumberOut                            101.00    
+
+Iniciando replicação 34 de 40
+
+                                      ARENA Simulation Results
+                                  Laboratorio - License: 5454000146
+
+                                  Sumário para Replicação 34 de 40
+
+Projeto: Unnamed Project                                             Data da execução :11/18/2026
+Analista: Laboratorio                                                 Data de revisão do modelo:11/18/2026
+
+Replicação terminada no tempo de      : 43200.0 Minutos 
+Statísticas foram apuradas no tempo de: 4320.0 Minutos (Sunday, November 22, 2026, 00:00:00)
+Statísticas acumuladas para o tempo de: 38880.0 Minutos
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Tempo no Porto                              1257.3     (Insuf)    373.37     5373.6         96    
+Espera no Fundeio                           48.410     (Insuf)    .00000     807.01         94    
+Navio.VATime                                1194.7     (Insuf)    372.80     5315.2         96    
+Navio.NVATime                               .00000     (Insuf)    .00000     .00000         96    
+Navio.WaitTime                              62.585     (Insuf)    .00000     807.01         96    
+Navio.TranTime                              .00000     (Insuf)    .00000     .00000         96    
+Navio.OtherTime                             .00000     (Insuf)    .00000     .00000         96    
+Navio.TotalTime                             1257.3     (Insuf)    373.37     5373.6         96    
+Espera Barco.Queue.WaitingTime              48.410     (Insuf)    .00000     807.01         94    
+Manobra de Entrada.Queue.WaitingTime        3.6857     (Insuf)    .00000     62.939         94    
+Manobra de Saida.Queue.WaitingTime          2.3877     (Insuf)    .00000     74.989         96    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Navio.WIP                                   3.0721     (Insuf)    .00000     9.0000     3.0000    
+Berco.NumberBusy                            2.9569     (Insuf)    .00000     5.0000     3.0000    
+Berco.NumberScheduled                       5.0000     (Insuf)    5.0000     5.0000     5.0000    
+Berco.Utilization                           .59138     (Insuf)    .00000     1.0000     .60000    
+Rebocador.NumberBusy                        .33473     .04545     .00000     2.0000     .00000    
+Rebocador.NumberScheduled                   2.0000     (Insuf)    2.0000     2.0000     2.0000    
+Rebocador.Utilization                       .16736     .02272     .00000     1.0000     .00000    
+Espera Barco.Queue.NumberInQueue            .11520     (Insuf)    .00000     4.0000     .00000    
+Manobra de Entrada.Queue.NumberInQueue      .00891     (Insuf)    .00000     1.0000     .00000    
+Manobra de Saida.Queue.NumberInQueue        .00590     (Insuf)    .00000     2.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Navio.NumberIn                              93.000    
+Navio.NumberOut                             96.000    
+Berco.NumberSeized                          94.000    
+Berco.ScheduledUtilization                  .59138    
+Rebocador.NumberSeized                      244.00    
+Rebocador.ScheduledUtilization              .16736    
+System.NumberOut                            96.000    
+
+Iniciando replicação 35 de 40
+
+                                      ARENA Simulation Results
+                                  Laboratorio - License: 5454000146
+
+                                  Sumário para Replicação 35 de 40
+
+Projeto: Unnamed Project                                             Data da execução :11/18/2026
+Analista: Laboratorio                                                 Data de revisão do modelo:11/18/2026
+
+Replicação terminada no tempo de      : 43200.0 Minutos 
+Statísticas foram apuradas no tempo de: 4320.0 Minutos (Sunday, November 22, 2026, 00:00:00)
+Statísticas acumuladas para o tempo de: 38880.0 Minutos
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Tempo no Porto                              1486.4     (Insuf)    428.35     4004.2        106    
+Espera no Fundeio                           245.67     (Insuf)    .00000     1489.8        108    
+Navio.VATime                                1248.9     (Insuf)    344.47     4004.2        106    
+Navio.NVATime                               .00000     (Insuf)    .00000     .00000        106    
+Navio.WaitTime                              237.57     (Insuf)    .00000     1489.8        106    
+Navio.TranTime                              .00000     (Insuf)    .00000     .00000        106    
+Navio.OtherTime                             .00000     (Insuf)    .00000     .00000        106    
+Navio.TotalTime                             1486.4     (Insuf)    428.35     4004.2        106    
+Espera Barco.Queue.WaitingTime              245.67     (Insuf)    .00000     1489.8        108    
+Manobra de Entrada.Queue.WaitingTime        4.6098     (Insuf)    .00000     111.34        108    
+Manobra de Saida.Queue.WaitingTime          3.4650     (Insuf)    .00000     109.68        108    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Navio.WIP                                   4.2173     (Insuf)    .00000     11.000     7.0000    
+Berco.NumberBusy                            3.5177     (Insuf)    .00000     5.0000     5.0000    
+Berco.NumberScheduled                       5.0000     (Insuf)    5.0000     5.0000     5.0000    
+Berco.Utilization                           .70356     (Insuf)    .00000     1.0000     1.0000    
+Rebocador.NumberBusy                        .37249     .04909     .00000     2.0000     2.0000    
+Rebocador.NumberScheduled                   2.0000     (Insuf)    2.0000     2.0000     2.0000    
+Rebocador.Utilization                       .18624     .02455     .00000     1.0000     1.0000    
+Espera Barco.Queue.NumberInQueue            .69955     (Insuf)    .00000     6.0000     2.0000    
+Manobra de Entrada.Queue.NumberInQueue      .01281     (Insuf)    .00000     1.0000     .00000    
+Manobra de Saida.Queue.NumberInQueue        .00963     (Insuf)    .00000     2.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Navio.NumberIn                              110.00    
+Navio.NumberOut                             106.00    
+Berco.NumberSeized                          108.00    
+Berco.ScheduledUtilization                  .70356    
+Rebocador.NumberSeized                      265.00    
+Rebocador.ScheduledUtilization              .18624    
+System.NumberOut                            106.00    
+
+Iniciando replicação 36 de 40
+
+                                      ARENA Simulation Results
+                                  Laboratorio - License: 5454000146
+
+                                  Sumário para Replicação 36 de 40
+
+Projeto: Unnamed Project                                             Data da execução :11/18/2026
+Analista: Laboratorio                                                 Data de revisão do modelo:11/18/2026
+
+Replicação terminada no tempo de      : 43200.0 Minutos 
+Statísticas foram apuradas no tempo de: 4320.0 Minutos (Sunday, November 22, 2026, 00:00:00)
+Statísticas acumuladas para o tempo de: 38880.0 Minutos
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Tempo no Porto                              1335.6     (Insuf)    341.97     4473.6        107    
+Espera no Fundeio                           120.28     (Insuf)    .00000     1239.0        111    
+Navio.VATime                                1204.1     (Insuf)    237.38     4473.6        107    
+Navio.NVATime                               .00000     (Insuf)    .00000     .00000        107    
+Navio.WaitTime                              131.53     (Insuf)    .00000     1239.0        107    
+Navio.TranTime                              .00000     (Insuf)    .00000     .00000        107    
+Navio.OtherTime                             .00000     (Insuf)    .00000     .00000        107    
+Navio.TotalTime                             1335.6     (Insuf)    341.97     4473.6        107    
+Espera Barco.Queue.WaitingTime              120.28     (Insuf)    .00000     1239.0        111    
+Manobra de Entrada.Queue.WaitingTime        4.7513     (Insuf)    .00000     85.801        111    
+Manobra de Saida.Queue.WaitingTime          3.1867     (Insuf)    .00000     51.820        107    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Navio.WIP                                   3.7371     (Insuf)    .00000     10.000     4.0000    
+Berco.NumberBusy                            3.3937     (Insuf)    .00000     5.0000     4.0000    
+Berco.NumberScheduled                       5.0000     (Insuf)    5.0000     5.0000     5.0000    
+Berco.Utilization                           .67874     (Insuf)    .00000     1.0000     .80000    
+Rebocador.NumberBusy                        .38337     .05884     .00000     2.0000     1.0000    
+Rebocador.NumberScheduled                   2.0000     (Insuf)    2.0000     2.0000     2.0000    
+Rebocador.Utilization                       .19168     .02942     .00000     1.0000     .50000    
+Espera Barco.Queue.NumberInQueue            .34340     (Insuf)    .00000     5.0000     .00000    
+Manobra de Entrada.Queue.NumberInQueue      .01356     (Insuf)    .00000     2.0000     .00000    
+Manobra de Saida.Queue.NumberInQueue        .00877     (Insuf)    .00000     2.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Navio.NumberIn                              111.00    
+Navio.NumberOut                             107.00    
+Berco.NumberSeized                          111.00    
+Berco.ScheduledUtilization                  .67874    
+Rebocador.NumberSeized                      278.00    
+Rebocador.ScheduledUtilization              .19168    
+System.NumberOut                            107.00    
+
+Iniciando replicação 37 de 40
+
+                                      ARENA Simulation Results
+                                  Laboratorio - License: 5454000146
+
+                                  Sumário para Replicação 37 de 40
+
+Projeto: Unnamed Project                                             Data da execução :11/18/2026
+Analista: Laboratorio                                                 Data de revisão do modelo:11/18/2026
+
+Replicação terminada no tempo de      : 43200.0 Minutos 
+Statísticas foram apuradas no tempo de: 4320.0 Minutos (Sunday, November 22, 2026, 00:00:00)
+Statísticas acumuladas para o tempo de: 38880.0 Minutos
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Tempo no Porto                              1161.2     (Insuf)    355.80     3694.2         80    
+Espera no Fundeio                           8.5056     (Insuf)    .00000     364.71         80    
+Navio.VATime                                1146.9     (Insuf)    355.80     3694.2         80    
+Navio.NVATime                               .00000     (Insuf)    .00000     .00000         80    
+Navio.WaitTime                              14.294     (Insuf)    .00000     364.71         80    
+Navio.TranTime                              .00000     (Insuf)    .00000     .00000         80    
+Navio.OtherTime                             .00000     (Insuf)    .00000     .00000         80    
+Navio.TotalTime                             1161.2     (Insuf)    355.80     3694.2         80    
+Espera Barco.Queue.WaitingTime              8.5056     (Insuf)    .00000     364.71         80    
+Manobra de Entrada.Queue.WaitingTime        2.8220     (Insuf)    .00000     44.962         80    
+Manobra de Saida.Queue.WaitingTime          2.9299     (Insuf)    .00000     46.555         81    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Navio.WIP                                   2.3818     (Insuf)    .00000     6.0000     3.0000    
+Berco.NumberBusy                            2.3643     (Insuf)    .00000     5.0000     3.0000    
+Berco.NumberScheduled                       5.0000     (Insuf)    5.0000     5.0000     5.0000    
+Berco.Utilization                           .47286     (Insuf)    .00000     1.0000     .60000    
+Rebocador.NumberBusy                        .28452     (Insuf)    .00000     2.0000     1.0000    
+Rebocador.NumberScheduled                   2.0000     (Insuf)    2.0000     2.0000     2.0000    
+Rebocador.Utilization                       .14226     (Insuf)    .00000     1.0000     .50000    
+Espera Barco.Queue.NumberInQueue            .01750     (Insuf)    .00000     1.0000     .00000    
+Manobra de Entrada.Queue.NumberInQueue      .00581     (Insuf)    .00000     1.0000     .00000    
+Manobra de Saida.Queue.NumberInQueue        .00610     (Insuf)    .00000     2.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Navio.NumberIn                              80.000    
+Navio.NumberOut                             80.000    
+Berco.NumberSeized                          80.000    
+Berco.ScheduledUtilization                  .47286    
+Rebocador.NumberSeized                      209.00    
+Rebocador.ScheduledUtilization              .14226    
+System.NumberOut                            80.000    
+
+Iniciando replicação 38 de 40
+
+                                      ARENA Simulation Results
+                                  Laboratorio - License: 5454000146
+
+                                  Sumário para Replicação 38 de 40
+
+Projeto: Unnamed Project                                             Data da execução :11/18/2026
+Analista: Laboratorio                                                 Data de revisão do modelo:11/18/2026
+
+Replicação terminada no tempo de      : 43200.0 Minutos 
+Statísticas foram apuradas no tempo de: 4320.0 Minutos (Sunday, November 22, 2026, 00:00:00)
+Statísticas acumuladas para o tempo de: 38880.0 Minutos
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Tempo no Porto                              1303.1     (Insuf)    330.07     7145.3         88    
+Espera no Fundeio                           77.787     (Insuf)    .00000     1020.9         91    
+Navio.VATime                                1217.7     (Insuf)    330.07     7144.2         88    
+Navio.NVATime                               .00000     (Insuf)    .00000     .00000         88    
+Navio.WaitTime                              85.372     (Insuf)    .00000     1020.9         88    
+Navio.TranTime                              .00000     (Insuf)    .00000     .00000         88    
+Navio.OtherTime                             .00000     (Insuf)    .00000     .00000         88    
+Navio.TotalTime                             1303.1     (Insuf)    330.07     7145.3         88    
+Espera Barco.Queue.WaitingTime              77.787     (Insuf)    .00000     1020.9         91    
+Manobra de Entrada.Queue.WaitingTime        2.5139     (Insuf)    .00000     52.226         91    
+Manobra de Saida.Queue.WaitingTime          2.3708     (Insuf)    .00000     85.975         88    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Navio.WIP                                   3.0787     (Insuf)    .00000     9.0000     4.0000    
+Berco.NumberBusy                            2.8966     (Insuf)    .00000     5.0000     4.0000    
+Berco.NumberScheduled                       5.0000     (Insuf)    5.0000     5.0000     5.0000    
+Berco.Utilization                           .57933     (Insuf)    .00000     1.0000     .80000    
+Rebocador.NumberBusy                        .28790     .04829     .00000     2.0000     .00000    
+Rebocador.NumberScheduled                   2.0000     (Insuf)    2.0000     2.0000     2.0000    
+Rebocador.Utilization                       .14395     .02414     .00000     1.0000     .00000    
+Espera Barco.Queue.NumberInQueue            .18206     (Insuf)    .00000     4.0000     .00000    
+Manobra de Entrada.Queue.NumberInQueue      .00588     (Insuf)    .00000     1.0000     .00000    
+Manobra de Saida.Queue.NumberInQueue        .00537     (Insuf)    .00000     2.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Navio.NumberIn                              91.000    
+Navio.NumberOut                             88.000    
+Berco.NumberSeized                          91.000    
+Berco.ScheduledUtilization                  .57933    
+Rebocador.NumberSeized                      217.00    
+Rebocador.ScheduledUtilization              .14395    
+System.NumberOut                            88.000    
+
+Iniciando replicação 39 de 40
+
+                                      ARENA Simulation Results
+                                  Laboratorio - License: 5454000146
+
+                                  Sumário para Replicação 39 de 40
+
+Projeto: Unnamed Project                                             Data da execução :11/18/2026
+Analista: Laboratorio                                                 Data de revisão do modelo:11/18/2026
+
+Replicação terminada no tempo de      : 43200.0 Minutos 
+Statísticas foram apuradas no tempo de: 4320.0 Minutos (Sunday, November 22, 2026, 00:00:00)
+Statísticas acumuladas para o tempo de: 38880.0 Minutos
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Tempo no Porto                              1196.8     (Insuf)    297.26     4355.7        104    
+Espera no Fundeio                           48.915     (Insuf)    .00000     770.51        103    
+Navio.VATime                                1141.3     (Insuf)    297.26     4201.2        104    
+Navio.NVATime                               .00000     (Insuf)    .00000     .00000        104    
+Navio.WaitTime                              55.570     (Insuf)    .00000     770.51        104    
+Navio.TranTime                              .00000     (Insuf)    .00000     .00000        104    
+Navio.OtherTime                             .00000     (Insuf)    .00000     .00000        104    
+Navio.TotalTime                             1196.8     (Insuf)    297.26     4355.7        104    
+Espera Barco.Queue.WaitingTime              48.915     (Insuf)    .00000     770.51        103    
+Manobra de Entrada.Queue.WaitingTime        2.9703     (Insuf)    .00000     76.289        103    
+Manobra de Saida.Queue.WaitingTime          4.1662     (Insuf)    .00000     125.85        104    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Navio.WIP                                   3.1886     (Insuf)    .00000     10.000     1.0000    
+Berco.NumberBusy                            3.0591     (Insuf)    .00000     5.0000     1.0000    
+Berco.NumberScheduled                       5.0000     (Insuf)    5.0000     5.0000     5.0000    
+Berco.Utilization                           .61182     (Insuf)    .00000     1.0000     .20000    
+Rebocador.NumberBusy                        .36431     .04875     .00000     2.0000     .00000    
+Rebocador.NumberScheduled                   2.0000     (Insuf)    2.0000     2.0000     2.0000    
+Rebocador.Utilization                       .18215     .02437     .00000     1.0000     .00000    
+Espera Barco.Queue.NumberInQueue            .12958     (Insuf)    .00000     5.0000     .00000    
+Manobra de Entrada.Queue.NumberInQueue      .00787     (Insuf)    .00000     2.0000     .00000    
+Manobra de Saida.Queue.NumberInQueue        .01114     (Insuf)    .00000     3.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Navio.NumberIn                              103.00    
+Navio.NumberOut                             104.00    
+Berco.NumberSeized                          103.00    
+Berco.ScheduledUtilization                  .61182    
+Rebocador.NumberSeized                      268.00    
+Rebocador.ScheduledUtilization              .18215    
+System.NumberOut                            104.00    
+
+Iniciando replicação 40 de 40
+
+                                      ARENA Simulation Results
+                                  Laboratorio - License: 5454000146
+
+                                  Sumário para Replicação 40 de 40
+
+Projeto: Unnamed Project                                             Data da execução :11/18/2026
+Analista: Laboratorio                                                 Data de revisão do modelo:11/18/2026
+
+Replicação terminada no tempo de      : 43200.0 Minutos 
+Statísticas foram apuradas no tempo de: 4320.0 Minutos (Sunday, November 22, 2026, 00:00:00)
+Statísticas acumuladas para o tempo de: 38880.0 Minutos
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Tempo no Porto                              1325.7     (Insuf)    279.26     10965.        103    
+Espera no Fundeio                           46.410     (Insuf)    .00000     445.73         99    
+Navio.VATime                                1273.4     (Insuf)    279.26     10965.        103    
+Navio.NVATime                               .00000     (Insuf)    .00000     .00000        103    
+Navio.WaitTime                              52.301     (Insuf)    .00000     453.74        103    
+Navio.TranTime                              .00000     (Insuf)    .00000     .00000        103    
+Navio.OtherTime                             .00000     (Insuf)    .00000     .00000        103    
+Navio.TotalTime                             1325.7     (Insuf)    279.26     10965.        103    
+Espera Barco.Queue.WaitingTime              46.410     (Insuf)    .00000     445.73         99    
+Manobra de Entrada.Queue.WaitingTime        4.2541     (Insuf)    .00000     65.669         99    
+Manobra de Saida.Queue.WaitingTime          2.9403     (Insuf)    .00000     53.105        103    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Navio.WIP                                   3.4035     (Insuf)    .00000     8.0000     .00000    
+Berco.NumberBusy                            3.2853     (Insuf)    .00000     5.0000     .00000    
+Berco.NumberScheduled                       5.0000     (Insuf)    5.0000     5.0000     5.0000    
+Berco.Utilization                           .65707     (Insuf)    .00000     1.0000     .00000    
+Rebocador.NumberBusy                        .35850     .06043     .00000     2.0000     .00000    
+Rebocador.NumberScheduled                   2.0000     (Insuf)    2.0000     2.0000     2.0000    
+Rebocador.Utilization                       .17925     .03021     .00000     1.0000     .00000    
+Espera Barco.Queue.NumberInQueue            .11818     (Insuf)    .00000     3.0000     .00000    
+Manobra de Entrada.Queue.NumberInQueue      .01083     (Insuf)    .00000     1.0000     .00000    
+Manobra de Saida.Queue.NumberInQueue        .00779     (Insuf)    .00000     2.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Navio.NumberIn                              99.000    
+Navio.NumberOut                             103.00    
+Berco.NumberSeized                          99.000    
+Berco.ScheduledUtilization                  .65707    
+Rebocador.NumberSeized                      260.00    
+Rebocador.ScheduledUtilization              .17925    
+System.NumberOut                            103.00    
+
+
+                                      ARENA Simulation Results
+                                  Laboratorio - License: 5454000146
+
+                              Resumo de resultados para 40 Replicações
+
+Projeto: Unnamed Project                                             Data da execução :11/18/2026
+Analista: Laboratorio                                                 Data de revisão do modelo:11/18/2026
+
+
+                                             RESULTADOS
+
+Identificador                                 Média    Meia-largura Mínima    Maximo # de Replicações
+___________________________________________________________________________________________________
+
+Navio.NumberIn                              98.400     2.8616     77.000     115.00     40
+Navio.NumberOut                             98.825     2.6707     80.000     117.00     40
+Berco.NumberSeized                          98.625     2.6675     80.000     115.00     40
+Berco.ScheduledUtilization                  .63829     .02184     .47286     .77983     40
+Rebocador.NumberSeized                      250.00     7.2886     198.00     296.00     40
+Rebocador.ScheduledUtilization              .17145     .00516     .14027     .20490     40
+System.NumberOut                            98.825     2.6707     80.000     117.00     40
+
+Tempo executando a simulação: 0.02 minutos.
+Simulação completada.
